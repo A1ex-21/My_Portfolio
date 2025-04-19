@@ -6,29 +6,29 @@ output:
   html_document: default
   pdf_document: default
 ---
-#**How do annual members and casual riders use Cyclistic Bikes differently?**
+# **How do annual members and casual riders use Cyclistic Bikes differently?**
 
 **Note:** Cyclistic is a fictitious company and is for the purposes of this case study,
 
-##**Background Information**
+## **Background Information**
 
-###**Scenario**
+### **Scenario**
 
 I am a junior data analyst on Cyclistic's marketing team, a bike-share company in Chicago, and I have been tasked with helping the company increase its annual memberships. The director of marketing Lily Moreno, believes that annual members are more profitable than casual riders and sees an opportunity to convert existing casual riders into annual members rather than focusing on acquiring new customers.
 
 To support this initiative, I will analyse Cyclistic's historical bike trip data to understand how casual riders and annual members use the service differently. These insights will help the team design targeted marketing strategies to encourage casual riders to purchase annual memberships. But first, the Cyclistic executives must approve my recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
-###**Characters and Teams**
+### **Characters and Teams**
 
-*Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can't use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use the bikes to commute to work each day.
+* Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can't use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use the bikes to commute to work each day.
 
-*Lily Moreno: The director of marketing and your manager. Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program. These may include email, social media, and other channels.
+* Lily Moreno: The director of marketing and your manager. Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program. These may include email, social media, and other channels.
 
-*Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy. You joined this team six months ago and have been busy learning about Cyclistic's mission and business goals—as well as how you, as a junior data analyst, can help Cyclistic achieve them.
+* Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy. You joined this team six months ago and have been busy learning about Cyclistic's mission and business goals—as well as how you, as a junior data analyst, can help Cyclistic achieve them.
 
-*Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
+* Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
 
-###**About the company**
+### **About the company**
 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
 
@@ -39,18 +39,18 @@ Cyclistic's finance analysts have concluded that annual members are much more pr
 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
-#**Ask**
+# **Ask**
 
-##*What is the problem you are trying to solve?*
+## *What is the problem you are trying to solve?*
 
-##*How can your insights drive business decisions?*
+## *How can your insights drive business decisions?*
 
 The problem to solve is to understand how annual members and casual riders use Cyclistic Bikes differently. This analysis will help Cyclistic design targeted marketing strategies to convert the causal riders into annual members, due to annual members being more profitable then casual riders. So the goal of Cyclistic is to maximise the number of annual memberships.
 
 My insights can drive business decisions as it will identify the usage patterns of both causal riders and annual members therefore highlighting the differences in trip length, frequency and purpose. The insights from the analysis can provide actionable data to tailor marketing campaigns on focusing on the motivations and behaviours of casual riders. It will also guide the resource allocation for promotional activities on digital media to therefore influence casual riders to become annual members, thereby aligning with Cyclistic’s business goals. 
 
 **Business Task**:Analyse and interpret Cyclistic’s Historical bike trip data to understand the behavioural differences between annual members and causal riders. Develop actionable insights and provide data-driven recommendations for a marketing strategy aimed at increasing the number of annual memberships.
-#**Prepare**
+# **Prepare**
 
 The data is located in a publicly available datasets by Cyclistic and is made accessible due to a link to Motivate International Inc. under a specific licence agreement. The data is structured in a comma separated value (.csv) format and is in the structure of long Data. The file contains columns for attributes such as trip id, start time, end time, bike id, trip duration, from station name, to station id, to station name, user type, gender and birthyear. Any potential issues with Bias could arise if the dataset does not equally represent all user groups like causal riders and annual members. A careful review ensures that all relevant user segments are included proportionately. The credibility of the data is ensured as the dataset originates from Cyclistic’s actual historical trip records (1st party data). 
 
@@ -62,11 +62,11 @@ Downloaded 12 months of trip data and stored files in an organised directory str
 
 **Note:** *Due to Cyclistic being a fictional company, The data used in this analysis includes Cyclistic bike-share trip data for Q1 2019 and Q1 2020. This data is publicly available and provided by Motivate International Inc. under the Divvy Data License Agreement. The datasets can be accessed at [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html).The data used in this analysis is governed by the Divvy Data License Agreement provided by Lyft Bikes and Scooters, LLC. For details, see the full license at [Divvy Data License Agreement](https://www.divvybikes.com/data-license-agreement).*
 
-#**Process**
+# **Process**
 
 The tools I am choosing to use are Excel and R, these were selected due to their functionality and compatibility with the dataset. These tools provide robust capabilities for Cleaning, Transforming and Analysing data effectively. Data Integrity was ensured through checks for missing values, duplicates and outliers and calculations and derived fields were verified for accuracy. To ensure that the data was clean, the columns were standardised, errors were corrected, invalid data was removed and additional columns such as ride length and day of week were added to facilitate analysis. To verify the data is clean and ready to analyse, the cleaned data was validated by performing descriptive statistics and ensuring consistent formats across all files. All steps taken during the cleaning and transformation process were documented, including formulas used, issues encountered and resolutions applied.
 
-##**Data Change-log**
+## **Data Change-log**
 
 # Changelog
 
@@ -103,22 +103,22 @@ For Divvy_Trips_2019_Q1 + Divvy_Trips_2020_Q1
   * Changed column titles in 2019_Q1 for start_time and end_time to started_at and ended_at
   * Removed trip_id from 2019_Q1 and ride_id from 2020_Q1 as they were both in different data types.
 
-#**Analyse**
+# **Analyse**
 
 **Note:** *For this stage of the Data Analysis Process, I will start from the Process stage again but this time with R Programming Language, in order to highlight the skills in R. This will also be because of the Markdown being written in R Markdown in the RStudio.*
 
 The way in which the data should be organised in order to perform analysis on it, is to organise the data into a cleaned and consolidated data frame (all trips v2) that includes additional columns for key variables such as ride length, day of week and aggregated metrics for analysis. The data has been formatted properly due to ride length has been converted numeric and categorical variables like day of week, are properly ordered to ensure accurate visualisations and summaries.
 
-##Analysis with R for Case Study
+## Analysis with R for Case Study
 
-##Load tidyverse and use the confilcted package to manage conflicts
+## Load tidyverse and use the confilcted package to manage conflicts
 
 ```{r Loading the packages}
 library(tidyverse)
 library(conflicted)
 ```
 
-##Step 1: Collect Data
+## Step 1: Collect Data
 
 Upload the Divvy datasets (.csv files) here
 
@@ -127,7 +127,7 @@ q1_2019 <- read_csv("E:/Coursera/Google Data Analytics/Useful Files/Capstone/Dat
 q1_2020 <- read_csv("E:/Coursera/Google Data Analytics/Useful Files/Capstone/Data/Original/Divvy_Trips_2020_Q1.csv")
 ```
 
-##Step 2: Wrangle Data and combine into a single file
+## Step 2: Wrangle Data and combine into a single file
 
 Compare Column names each of the files
 
@@ -189,7 +189,7 @@ all_trips <- all_trips %>%
   select(-c(start_lat, start_lng, end_lat, end_lng, birthyear, gender, "tripduration"))
 ```
 
-##Step 3: Clean up and add Data to prepare for Analysis
+## Step 3: Clean up and add Data to prepare for Analysis
 
 Inspect the new table that has been created
 
@@ -221,15 +221,15 @@ summary(all_trips)
 
 There are a few problems we will need to fix:
 
-*(1): In the "member_casual" column, there are two names for members ("member" and "Subscriber") and two names for casual riders ("Customer" and "casual"). We will need to consolidate that from four to two labels.
+1.  In the "member_casual" column, there are two names for members ("member" and "Subscriber") and two names for casual riders ("Customer" and "casual"). We will need to consolidate that from four to two labels.
 
-*(2): The data can only be aggregated at the ride-level, which is too granular. We will want to add some additional columns of data such as day, month, year. That provide additional opportunities to aggregate the data
+ 2. The data can only be aggregated at the ride-level, which is too granular. We will want to add some additional columns of data such as day, month, year. That provide additional opportunities to aggregate the data
 
-*(3): We will want to add a calculated field for length of ride since the 2020q1 data did not have the tripduration column. We will add "ride_length" to the entire data frame for consistency.
+ 3. We will want to add a calculated field for length of ride since the 2020q1 data did not have the tripduration column. We will add "ride_length" to the entire data frame for consistency.
 
-*(4): There are some rides where tripduration shows up as a negative, including several hundred rides where Divvy took bikes out of circulation for Quality Control reasons. We will want to delete these rides
+4.  There are some rides where tripduration shows up as a negative, including several hundred rides where Divvy took bikes out of circulation for Quality Control reasons. We will want to delete these rides
 
-###Doing problem (1)
+### Doing problem (1)
 
 In the "member_casual" column, replace "Subscriber" with "member" and "Customer" with "casual"
 Before 2020, Divvy used different labels for these two types of riders, we will want to make our data frame consistent with their current nomenclature
@@ -253,7 +253,7 @@ Check to make sure the proper number of observations were reassigned
 table(all_trips$member_casual)
 ```
 
-###Doing problem (2)
+### Doing problem (2)
 
 Add columns that list the data, month, day and year of each ride
 This will allow us to aggregate ride data for each month, day or year
@@ -268,7 +268,7 @@ all_trips$day_of_week <- format(as.Date(all_trips$date), "%A")
 
 ```
 
-###Doing problem (3)
+### Doing problem (3)
 
 Add "ride_length" calculation to all_trips (in seconds)
 
@@ -290,7 +290,7 @@ all_trips$ride_length <- as.numeric(as.character(all_trips$ride_length))
 is.numeric(all_trips$ride_length)
 ```
 
-###Doing problem (4)
+### Doing problem (4)
 
 Remove "bad" Data
 The data frame includes a few hundred entries when bikes were taken out of docks and checked for quality by Divvy or ride_length was negative
@@ -300,28 +300,28 @@ We will create a new version of the data frame (v2) since data is being removed
 all_trips_v2 <- all_trips[!(all_trips$start_station_name == "HQ QR" | all_trips$ride_length<0),]
 ```
 
-##Step 4: Conduct Descriptive Analysis
+## Step 4: Conduct Descriptive Analysis
 **Descriptive Analysis on ride_length (all figures in seconds)**
 
-*Straight Average (total ride length/rides)
+* Straight Average (total ride length/rides)
 
 ```{r Straight Average}
 mean(all_trips_v2$ride_length)
 ```
 
-*Midpoint number in the ascending array of ride lengths
+* Midpoint number in the ascending array of ride lengths
 
 ```{r Median}
 median(all_trips_v2$ride_length)
 ```
 
-*Longest Ride
+* Longest Ride
 
 ```{r Max}
 max(all_trips_v2$ride_length)
 ```
 
-*Shortest Ride
+* Shortest Ride
 
 ```{r Min}
 min(all_trips_v2$ride_length)
@@ -394,7 +394,7 @@ all_trips_v2 %>%
   geom_col(position = "dodge")
 ```
 
-##Step 5: Export Summary File for further Analysis
+## Step 5: Export Summary File for further Analysis
 
 Create a csv file that we will visualise in Excel, Tableau or my presentation software
 Had to change the file location to my hard drive location
@@ -415,7 +415,7 @@ In addition, causal riders longer ride duration's suggest they value the experie
 
 In Conclusion, these insights help Cyclistic design data driven marketing strategies that appeal to casual riders unique behaviours and motivations. By emphasising cost-effectiveness, flexibility and convenience, Cyclistic can increase the likelihood of converting casual users into annual members, thereby ultimately driving higher profitability and customer retention.
 
-#**Share**
+# **Share**
 
 The data tells a story of two distinct user groups: casual riders who have longer average ride duration with higher usage on weekends, and annual members who have shorter, frequent rides throughout the week, peaking on weekdays. This highlights that casual riders are leisure focused, while annual members are consistent, frequent users likely leveraging the service for daily commutes.
 
@@ -423,9 +423,9 @@ The findings address the question of how casual riders and annual members use bi
 
 Data visualisations are essential for clearly communicating trends and insights. Bar charts showing the average ride duration and the number of rides by weekday help the stakeholders quickly grasp the key behavioural differences between casual riders and annual members. The presentation would be accessible to the audience as it will feature clean, professional visuals, clear labels and a brief narrative explaining the findings and their implications. Supporting data and summaries will be included in an accessible format such as slides, PDF report or a dashboard.
 
-##**Data Visualisations**
+## **Data Visualisations**
 
-###**Number of Rides by Weekday**
+### **Number of Rides by Weekday**
 
 ```{r Number of Rides by Weekday}
 all_trips_v2 %>% 
@@ -437,7 +437,7 @@ all_trips_v2 %>%
   geom_col(position = "dodge") + labs(title = "Number of Rides by Weekday", fontface = "bold", subtitle = "Casual Riders vs. Annual Members", caption = "Made using 2019_Q1 and 2020_Q1 Data")
 ```
 
-###**Average Ride Duration for each Rider Type**
+### **Average Ride Duration for each Rider Type**
 
 ```{r Average Ride Duration for each Rider Type}
 all_trips_v2 %>% 
@@ -449,11 +449,11 @@ all_trips_v2 %>%
   geom_col(position = "dodge") + labs(title = "Average Ride Duration for each Rider Type", subtitle = "Casual Riders vs. Annual Members", caption = "Made using 2019_Q1 and 2020_Q1 Data")
 ```
 
-##**Presentation**
+## **Presentation**
 
 To view my presentation click [here](https://docs.google.com/presentation/d/1_TtCAj7LnrqlN8IK_eXAM33pKqr4IB8s/edit?usp=sharing&ouid=104952222776858457522&rtpof=true&sd=true)
 
-#**Act**
+# **Act**
 
 The analysis highlights that casual riders and annual members use Cyclistic bikes differently. Casual riders tend to use the bikes for longer duration's, primarily on weekends, which suggests a preference for leisure and recreational activities. In contrast, annual members use the bikes for shorter, frequent rides throughout the weekdays, indicating routine commuting behaviour. To convert casual riders into annual members, Cyclistic should emphasise the cost-effectiveness, convenience and flexibility of annual memberships while tailoring marketing to align with casual riders habits.
 
@@ -465,7 +465,7 @@ In order to expand on these findings, additional data could provide a deeper und
 
 By consolidating these insights into a final presentation or report, Cyclistic can confidently move forward with data-driven strategies in order to increase annual memberships. This process ensures that the findings are actionable, measurable and aligned with the company’s goals of profitability and growth.
 
-#**References**
+# **References**
 
 ## Data Sources
 

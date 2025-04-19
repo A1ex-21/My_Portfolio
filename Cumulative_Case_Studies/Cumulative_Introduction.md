@@ -45,4 +45,4 @@ Execute: You will share the results of your analysis and your collaboration with
 ### Waze
 
 ### Automatidata
-![Automatidata]("E:\Photos\Automatidata.png")
+![Automatidata](https://github.com/user-attachments/assets/d5820e1f-df18-435b-a2c9-9e7e20e75482)

@@ -1,6 +1,6 @@
 # Cumulative Case Studies
 
-These are Case Studies that have progressed through multiple files showcasing multiple skills. For example a PACE Strategy Document, which outlines the PACE Framework from the Google Advanced Data Analytics Certificate.
+These are Case Studies that have progressed through multiple files showcasing multiple skills. For example a PACE Strategy Document, which outlines the PACE Framework from the Google Advanced Data Analytics Certificate. They use workplace scenarios with case study companies such as TikTok, Waze and a fictitious company called Automatidata. 
 
 ## PACE Framework
 
@@ -37,3 +37,12 @@ Execute: You will share the results of your analysis and your collaboration with
 * Answer Questions
 * Consider differing viewpoints
 * Present reccommendations based on the data.
+
+## Workplace Scenario Case Study Companies
+
+### TikTok
+
+### Waze
+
+### Automatidata
+!Automatidata "E:\Photos\Automatidata.png"

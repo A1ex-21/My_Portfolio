@@ -1,5 +1,5 @@
 ---
-title: "**How does a bike-share navigate speedy success?**"
+title: "How does a bike-share navigate speedy success?"
 author: "Alexander Thompson"
 date: "2024-12-18"
 output:

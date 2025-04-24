@@ -21,13 +21,16 @@ The contents in each Cumulative Case Study folder will be of the project deliver
 
 This is where I showcase the work I have done for Kaggle Competitions, these competitions are a great way to have fun, learn and showcase skills.
 
+
 * **Format**
 
-All Documents that contain code will be in markdown format as this is fits well with Github and is a great way for showcasing code. There might be some cases where documents are uploaded in its original format, such as RmD and ipynb, which can be downloaded to view.
+  * All Documents that contain code will be in markdown format as this is fits well with Github and is a great way for showcasing code. There might be some cases where documents are uploaded in its original format, such as rmd and ipynb, which can be downloaded to view.
 
-All Microsoft Word documents will be in PDF format.
+  * All Microsoft Word documents will be in PDF format.
 
-All Excel Files will be in .CSV format.
+  * All Excel Files will be in .CSV format.
+
+  * All Images will be in png format.
 
 ## **My Background**
 

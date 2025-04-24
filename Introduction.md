@@ -23,7 +23,7 @@ This is where I showcase the work I have done for Kaggle Competitions, these com
 
 * **Format**
 
-All Documents that contain code will be in markdown format as this is fits well with Github and is a great way for showcasing code. There might be some cases where documents are uploaded in its original format, such as RmD, CSV, pptx, which can be downloaded to view.
+All Documents that contain code will be in markdown format as this is fits well with Github and is a great way for showcasing code. There might be some cases where documents are uploaded in its original format, such as RmD and ipynb, which can be downloaded to view.
 
 All Microsoft Word documents will be in PDF format.
 

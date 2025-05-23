@@ -38,19 +38,7 @@ You discover two new emails in your inbox: one from your supervisor, Rosie Mae B
 emails, then follow the provided instructions to complete the PACE strategy document, the code notebook, and the executive summary.
 
 **Note:** Team member names used in this workplace scenario are fictional and are not representative of TikTok.
-
-### <a id='toc1_1_1_'></a>[Access the end-of-course Project Lab](#toc0_)
-
-Your Python notebook for this project includes a guided framework that will assist you with the required coding. input the code and answer the questions in your Python notebook to inspect and organise your data. You'll find helpful reminders for tasks like:
-* Importing data
-* Loading necessary packages
-* Identifying relevant data structures and summarising data
-* Extracting information from columns
-* Combining or modifying data structures to create meaningful variables
-
-You will also discover questions in this Python notebook desgined to help you gather the relevant information you'll need to write an executive summary for your team.
-
-Use your completed PACE Strategy document and Python notebook to help you prepare your executive summary in the next step.
+### Emails
 
 **<u>Email from Rosie Mae Bradshaw, Data Science Manager</u>**
 

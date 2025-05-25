@@ -155,9 +155,7 @@ This project uses a dataset called tiktok_dataset.csv. It contains synthetic dat
 
 **The Goal:** is to explore the dataset and create visualizations.
 
-
-![Pace](https://github.com/user-attachments/assets/7fac37b1-ccf0-4f2f-9410-587866608f13)
-
+<img src="https://github.com/user-attachments/assets/7fac37b1-ccf0-4f2f-9410-587866608f13" width=100 height=100>
 ## <a id='toc1_2_'></a>[**PACE Stages**](#toc0_)
 
 <img src="Plan.png" width="100" height="100" align=left>

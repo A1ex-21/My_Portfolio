@@ -592,8 +592,9 @@ plt.show();
 ```
 
 
-    
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_45_0.png)
+
+
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_45_0](https://github.com/user-attachments/assets/b65add9a-5fc7-4688-9baa-933670aab7a4)
     
 
 
@@ -611,7 +612,8 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_47_0.png)
+[TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_47_0](https://github.com/user-attachments/assets/017a3992-8302-4165-80f8-f7a48162b6c1)
+
     
 
 
@@ -632,9 +634,8 @@ plt.title('video_view_count')
 plt.show();
 ```
 
-
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_52_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_52_0](https://github.com/user-attachments/assets/00a06677-ec7b-4ba1-b82f-9a00eebd74d6)
     
 
 
@@ -651,8 +652,8 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_54_0.png)
     
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_54_0](https://github.com/user-attachments/assets/61d0b2ce-1bf5-4998-8555-e01111672603)
 
 
 **Question:** What do you notice about the distribution of this variable?
@@ -674,8 +675,9 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_59_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_59_0](https://github.com/user-attachments/assets/a5b4bfd8-14fb-4e3e-925a-18f24ddb4487)
     
+
 
 
 Create a histogram of the values in the `video_like_count` column to further explore the distribution of this variable.
@@ -692,8 +694,9 @@ plt.title('Video like count histogram');
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_61_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_61_0](https://github.com/user-attachments/assets/304f1be1-6179-4dba-ac68-2a37b6ff60f9)
     
+
 
 
 **Question:** What do you notice about the distribution of this variable?
@@ -715,8 +718,9 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_66_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_66_0](https://github.com/user-attachments/assets/d83a2fa4-1d68-4575-b117-0b67164a400d)
     
+
 
 
 Create a histogram of the values in the `video_comment_count` column to further explore the distribution of this variable.
@@ -731,8 +735,9 @@ plt.title('Video comment count histogram');
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_68_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_68_0](https://github.com/user-attachments/assets/7dd04e11-3e12-4b9d-b2f0-c26955d7f668)
     
+
 
 
 **Question:** What do you notice about the distribution of this variable?
@@ -754,8 +759,9 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_73_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_73_0](https://github.com/user-attachments/assets/042a0120-1723-4b15-b4e5-b8382c9fb73f)
     
+
 
 
 Create a histogram of the values in the `video_share_count` column to further explore the distribution of this variable.
@@ -771,8 +777,9 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_75_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_75_0](https://github.com/user-attachments/assets/479e527f-258a-4a0d-bd52-6e9e601c3a8f)
     
+
 
 
 **Question:** What do you notice about the distribution of this variable?
@@ -794,8 +801,9 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_80_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_80_0](https://github.com/user-attachments/assets/56517151-cfc2-4502-8fb4-be7fc7806a4f)
     
+
 
 
 Create a histogram of the values in the `video_download_count` column to further explore the distribution of this variable.
@@ -811,8 +819,9 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_82_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_82_0](https://github.com/user-attachments/assets/996c4c50-3e11-4baa-8e9f-ddb0bf03b6ae)
     
+
 
 
 **Question:** What do you notice about the distribution of this variable?
@@ -839,8 +848,9 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_87_0.png)
-    
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_87_0](https://github.com/user-attachments/assets/c3c4ed0f-92a3-4a38-a52b-fe9a5d0b8c74)
+
+
 
 
 **Question:** What do you notice about the number of verified users compared to unverified? And how does that affect their likelihood to post opinions?
@@ -869,8 +879,9 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_92_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_92_0](https://github.com/user-attachments/assets/f6f54260-c796-461c-a5ed-01865a5000d1)
     
+
 
 
 **Question:** What do you notice about the number of active authors compared to banned authors for both claims and opinions?
@@ -909,8 +920,9 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_97_1.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_97_1](https://github.com/user-attachments/assets/91230f72-42f8-4087-8607-a18df5503007)
     
+
 
 
 **Question:** What do you notice about the median view counts for non-active authors compared to that of active authors? Based on that insight, what variable might be a good indicator of claim status?
@@ -983,8 +995,9 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_104_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_104_0](https://github.com/user-attachments/assets/c3635c7c-fb0a-43c7-a4a2-a2e754d9834c)
     
+
 
 
 **Question:** What do you notice about the overall view count for claim status?
@@ -1065,8 +1078,9 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_111_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_111_0](https://github.com/user-attachments/assets/18e1d965-3906-47aa-a8e2-7e882e744faf)
     
+
 
 
 
@@ -1088,8 +1102,9 @@ plt.show();
 
 
     
-![png](TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_files/TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_112_0.png)
+![TikTok_Exploratory_Data_Analysis_for_Predictive_Model_Development_112_0](https://github.com/user-attachments/assets/27e6529f-ae29-4cf1-9e38-a49ba5def221)
     
+
 
 
 <img src="Execute.png" width="100" height="100" align=left>

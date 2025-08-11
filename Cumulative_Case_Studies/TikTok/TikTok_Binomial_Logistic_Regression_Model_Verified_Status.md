@@ -712,7 +712,8 @@ plt.show()
 
 
     
-![png](TikTok_Binomial_Logistic_Regression_Model_Verified_Status_files/TikTok_Binomial_Logistic_Regression_Model_Verified_Status_42_0.png)
+<img width="489" height="238" alt="TikTok_Binomial_Logistic_Regression_Model_Verified_Status_42_0" src="https://github.com/user-attachments/assets/289015a7-b4e9-416b-aecb-9c22d1c08ece" />
+
     
 
 
@@ -2435,3 +2436,4 @@ coef_df
    * The model shows that **higher shares and opinion content** increase the probability of verification, while **ban/under review statuses** decrease it.
    * Classification performance: **Precision** for verified = 0.76, **Recall** for verified = 0.53; **Precision** for not verified = 0.65, **Recall** for not verified = 0.84.
    * Confusion matrix indicates that the model correctly identifies most non-verified users but misses some verified users.
+

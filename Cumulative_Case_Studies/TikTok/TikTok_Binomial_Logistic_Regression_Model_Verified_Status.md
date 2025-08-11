@@ -730,7 +730,8 @@ plt.show()
 
 
     
-![png](TikTok_Binomial_Logistic_Regression_Model_Verified_Status_files/TikTok_Binomial_Logistic_Regression_Model_Verified_Status_43_0.png)
+<img width="489" height="238" alt="TikTok_Binomial_Logistic_Regression_Model_Verified_Status_43_0" src="https://github.com/user-attachments/assets/d544d37e-390a-4a76-b9e4-e6d319aec4a4" />
+
     
 
 
@@ -747,8 +748,8 @@ plt.show()
 
 
     
-![png](TikTok_Binomial_Logistic_Regression_Model_Verified_Status_files/TikTok_Binomial_Logistic_Regression_Model_Verified_Status_44_0.png)
-    
+<img width="489" height="238" alt="TikTok_Binomial_Logistic_Regression_Model_Verified_Status_44_0" src="https://github.com/user-attachments/assets/a449ebce-7bd5-496d-9dca-87ae243b4e2f" />
+
 
 
 
@@ -764,8 +765,8 @@ plt.show()
 
 
     
-![png](TikTok_Binomial_Logistic_Regression_Model_Verified_Status_files/TikTok_Binomial_Logistic_Regression_Model_Verified_Status_45_0.png)
-    
+<img width="512" height="238" alt="TikTok_Binomial_Logistic_Regression_Model_Verified_Status_45_0" src="https://github.com/user-attachments/assets/9f88d6cf-1c35-4857-98eb-b3c4ba680634" />
+
 
 
 
@@ -1060,7 +1061,8 @@ plt.show()
 
 
     
-![png](TikTok_Binomial_Logistic_Regression_Model_Verified_Status_files/TikTok_Binomial_Logistic_Regression_Model_Verified_Status_59_0.png)
+<img width="1082" height="453" alt="TikTok_Binomial_Logistic_Regression_Model_Verified_Status_59_0" src="https://github.com/user-attachments/assets/6128510f-d7b2-4b88-a856-230a1baabad2" />
+
     
 
 
@@ -1238,7 +1240,8 @@ plt.show()
 
 
     
-![png](TikTok_Binomial_Logistic_Regression_Model_Verified_Status_files/TikTok_Binomial_Logistic_Regression_Model_Verified_Status_63_0.png)
+<img width="770" height="670" alt="TikTok_Binomial_Logistic_Regression_Model_Verified_Status_63_0" src="https://github.com/user-attachments/assets/7fe5be37-83fa-457a-8360-92145ca27e50" />
+
     
 
 
@@ -2286,8 +2289,8 @@ plt.show()
 
 
     
-![png](TikTok_Binomial_Logistic_Regression_Model_Verified_Status_files/TikTok_Binomial_Logistic_Regression_Model_Verified_Status_123_0.png)
-    
+<img width="529" height="432" alt="TikTok_Binomial_Logistic_Regression_Model_Verified_Status_123_0" src="https://github.com/user-attachments/assets/4b05487f-f188-470d-95c0-0a7a382fad4d" />
+
 
 
 
@@ -2436,4 +2439,5 @@ coef_df
    * The model shows that **higher shares and opinion content** increase the probability of verification, while **ban/under review statuses** decrease it.
    * Classification performance: **Precision** for verified = 0.76, **Recall** for verified = 0.53; **Precision** for not verified = 0.65, **Recall** for not verified = 0.84.
    * Confusion matrix indicates that the model correctly identifies most non-verified users but misses some verified users.
+
 

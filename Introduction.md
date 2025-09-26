@@ -56,6 +56,7 @@ Currently, I am pursuing the Google Advanced Data Analytics Certificate, which f
 **Programming Langueages:**
 * SQL (BigQuery, SSMS)
 * R
+* Python
 
 **Areas of Study:**
 * Economics

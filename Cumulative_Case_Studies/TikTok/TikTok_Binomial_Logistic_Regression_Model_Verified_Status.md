@@ -169,8 +169,6 @@ data = pd.read_csv("tiktok_dataset.csv")
 
 ## **PACE: Analyze**
 
-## **PACE: Analyze**
-
 Consider the questions in your PACE Strategy Document to reflect on the Analyze stage.
 
 In this stage, consider the following question where applicable to complete your code response:
@@ -2439,5 +2437,6 @@ coef_df
    * The model shows that **higher shares and opinion content** increase the probability of verification, while **ban/under review statuses** decrease it.
    * Classification performance: **Precision** for verified = 0.76, **Recall** for verified = 0.53; **Precision** for not verified = 0.65, **Recall** for not verified = 0.84.
    * Confusion matrix indicates that the model correctly identifies most non-verified users but misses some verified users.
+
 
 

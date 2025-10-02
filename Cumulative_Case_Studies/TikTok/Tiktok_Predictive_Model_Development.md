@@ -825,7 +825,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_files/Tiktok_Predictive_Model_Development_52_0.png)
+<img width="850" height="545" alt="Tiktok_Predictive_Model_Development_52_0" src="https://github.com/user-attachments/assets/6442e443-73b1-4bd9-925b-127e8dea5941" />
+
     
 
 
@@ -2224,7 +2225,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_files/Tiktok_Predictive_Model_Development_95_0.png)
+<img width="516" height="453" alt="Tiktok_Predictive_Model_Development_95_0" src="https://github.com/user-attachments/assets/38fed224-4db1-4a33-9a93-791e5f1b87c0" />
+
     
 
 
@@ -2313,7 +2315,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_files/Tiktok_Predictive_Model_Development_101_0.png)
+<img width="516" height="453" alt="Tiktok_Predictive_Model_Development_101_0" src="https://github.com/user-attachments/assets/2d710b78-4b92-4f6f-a69d-c13917550cf4" />
+
     
 
 
@@ -2378,10 +2381,12 @@ plt.title("Random Forest - Test Set")
 plt.show()
 
 ```
+<img width="516" height="453" alt="Tiktok_Predictive_Model_Development_106_0" src="https://github.com/user-attachments/assets/d280ac54-537f-4a90-b89e-7a3de7e6197e" />
 
 
-    
-![png](Tiktok_Predictive_Model_Development_files/Tiktok_Predictive_Model_Development_106_0.png)
+
+
+
     
 
 
@@ -2406,9 +2411,11 @@ plt.ylabel("Feature")
 plt.show()
 ```
 
+<img width="1012" height="545" alt="Tiktok_Predictive_Model_Development_108_0" src="https://github.com/user-attachments/assets/1d4c8c9a-9bc0-4a39-8a16-3c6a816f82c5" />
 
     
-![png](Tiktok_Predictive_Model_Development_files/Tiktok_Predictive_Model_Development_108_0.png)
+
+
     
 
 
@@ -2443,3 +2450,4 @@ Remember, sometimes your data simply will not be predictive of your chosen targe
 4. I would want access to **Fact-Checking Results** (whether the claim has been verified externally), **User Credibility Metrics** (such as history of spreading misinformation), **Temporal Features** (how quickly engagement grows after posting) and **Engagement Quality Metrics** (ratio of likes to views, comment sentiment). These would improve the classification further by providing stronger context about the difference between opinions and claims.
 
 **Congratulations!** You've completed this lab. However, you may not notice a green check mark next to this item on Coursera's platform. Please continue your progress regardless of the check mark. Just click on the "save" icon at the top of this notebook to ensure your work has been logged.
+

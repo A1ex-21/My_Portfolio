@@ -1551,7 +1551,7 @@ cv_results['mean_test_precision'].loc[rf_cv.best_index_]
 
 **Question:** How well is your model performing? Consider average recall score and precision score.
 
-**Recall Score:** 0.99 - the model is correctly identifying almost all the true claims, with very few false negatives.
+**Recall Score:** 0.99 - The model is correctly identifying almost all the true claims, with very few false negatives.
 
 **Precision Score:** 0.999 - When the model predicts a claim, it is almost always correct, with almost no false positives.
 
@@ -2137,9 +2137,9 @@ cv_results_2['mean_test_precision'].loc[xgb_cv.best_index_]
 
 **Question:** How well does your model perform? Consider recall score and precision score.
 
-**Recall Score:** 0.99 - the model correctly identified all claims with very few false negatives.
+**Recall Score:** 0.99 - The model correctly identified all claims with very few false negatives.
 
-**Precision Score:** 0.998 - every video predicted as a claim was actually a claim with very few false positives.
+**Precision Score:** 0.998 - Every video predicted as a claim was actually a claim with very few false positives.
 
 The XGBoost model is therefore highly effective at correctly identifying claims while also making sure that nearly all of the claims it flags are correct. Together the metrics suggest that the model provides an excelent balance and reliability for claim classification. But the same concern has from the Random Forest Model has to be reiterated here, it is recommended that the model is evaluated again on unseen data to ensure that the model is not overfitting the data.
 
@@ -2450,4 +2450,5 @@ Remember, sometimes your data simply will not be predictive of your chosen targe
 4. I would want access to **Fact-Checking Results** (whether the claim has been verified externally), **User Credibility Metrics** (such as history of spreading misinformation), **Temporal Features** (how quickly engagement grows after posting) and **Engagement Quality Metrics** (ratio of likes to views, comment sentiment). These would improve the classification further by providing stronger context about the difference between opinions and claims.
 
 **Congratulations!** You've completed this lab. However, you may not notice a green check mark next to this item on Coursera's platform. Please continue your progress regardless of the check mark. Just click on the "save" icon at the top of this notebook to ensure your work has been logged.
+
 

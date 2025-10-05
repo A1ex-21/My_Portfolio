@@ -2,7 +2,9 @@
 
 These are Case Studies that have progressed through multiple files showcasing multiple skills. They use workplace scenarios with case study companies such as TikTok, Waze and a fictitious company called Automatidata. 
 
-For each part of the case study, there is a PACE Strategy Document, which outlines the PACE Framework from the Google Advanced Data Analytics Certificate.
+Some part of the Case Studies also come with an Executive Summary and are placed in the "Executive_Summaries" Folder.
+
+For each part of the case study there is a Project Overview for that End-of-Coure Project and there is a PACE Strategy Document, which outlines the PACE Framework from the Google Advanced Data Analytics Certificate.
 
 ## PACE Framework
 
@@ -77,3 +79,13 @@ In this fictional scenario, the New York City Taxi and Limousine Commission (TLC
 **Background:**
 
 Since 1971, TLC has been regulating and overseeing the licensing of New York City's taxi cabs, for-hire vehicles, commuter vans, and paratransit vehicles.
+
+## Formats
+
+The formats that will be available for the cumulative case studies will be:
+* .png
+* .pdf
+* .ipynb
+* .md
+
+The Python Notebooks will be in both .ipynb and .md format, with .md format rendering better and is also more portable and transferable.

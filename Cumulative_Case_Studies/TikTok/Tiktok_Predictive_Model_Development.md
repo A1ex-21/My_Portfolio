@@ -862,7 +862,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_files/Tiktok_Predictive_Model_Development_53_0.png)
+<img width="850" height="545" alt="Tiktok_Predictive_Model_Development_53_0" src="https://github.com/user-attachments/assets/0c3b448a-55cb-484f-a327-358ffd78d90c" />
+
     
 
 
@@ -2261,7 +2262,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_files/Tiktok_Predictive_Model_Development_96_0.png)
+<img width="516" height="453" alt="Tiktok_Predictive_Model_Development_96_0" src="https://github.com/user-attachments/assets/8f17ffaa-3df0-44b3-9acf-fb7df4de542a" />
+
     
 
 
@@ -2350,7 +2352,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_files/Tiktok_Predictive_Model_Development_102_0.png)
+<img width="516" height="453" alt="Tiktok_Predictive_Model_Development_102_0" src="https://github.com/user-attachments/assets/cc6d674f-e383-401f-ac16-e4c7ae9634d8" />
+
     
 
 
@@ -2418,7 +2421,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_files/Tiktok_Predictive_Model_Development_107_0.png)
+<img width="516" height="453" alt="Tiktok_Predictive_Model_Development_107_0" src="https://github.com/user-attachments/assets/31cf83c5-6fd5-4513-87e8-ef221db1bd2b" />
+
     
 
 
@@ -2445,7 +2449,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_files/Tiktok_Predictive_Model_Development_109_0.png)
+<img width="1012" height="545" alt="Tiktok_Predictive_Model_Development_109_0" src="https://github.com/user-attachments/assets/28b5cbae-2056-48fe-be57-267f6c10071e" />
+
     
 
 
@@ -2480,3 +2485,4 @@ Remember, sometimes your data simply will not be predictive of your chosen targe
 4. I would want access to **Fact-Checking Results** (whether the claim has been verified externally), **User Credibility Metrics** (such as history of spreading misinformation), **Temporal Features** (how quickly engagement grows after posting) and **Engagement Quality Metrics** (ratio of likes to views, comment sentiment). These would improve the classification further by providing stronger context about the difference between opinions and claims.
 
 **Congratulations!** You've completed this lab. However, you may not notice a green check mark next to this item on Coursera's platform. Please continue your progress regardless of the check mark. Just click on the "save" icon at the top of this notebook to ensure your work has been logged.
+

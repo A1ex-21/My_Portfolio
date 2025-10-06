@@ -1,9 +1,9 @@
-# <a id='toc1_'></a>[Course_2_TikTok_Project](#toc0_)
+# <a id='toc1_'></a>[TikTok - Preparing Data for Predictive Model](#toc0_)
 
-**Get started with Python**
+**Course 2: Get started with Python**
 
 **Table of contents**<a id='toc0_'></a>    
-- [Course_2_TikTok_Project](#toc1_)    
+- [TikTok - Preparing Data for Predictive Model](#toc1_)    
   - [Scenario](#toc1_1_)    
     - [Email from Rosie Mae Bradshaw, Data Science Manager](#toc1_1_1_)    
     - [Email from Orion Rainier, Data Scientist](#toc1_1_2_)    
@@ -1406,3 +1406,4 @@ Of the 19,382 samples in this dataset, just under 50% are claims&mdash;9,608 of 
 Engagement level is strongly correlated with claim status. This should be a focus of further inquiry.
 
 Videos with banned authors have significantly higher engagement than videos with active authors. Videos with authors under review fall between these two categories in terms of engagement levels.
+

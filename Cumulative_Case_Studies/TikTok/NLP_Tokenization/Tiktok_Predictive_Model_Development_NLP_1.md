@@ -865,7 +865,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_NLP_1_files/Tiktok_Predictive_Model_Development_NLP_1_53_0.png)
+<img width="850" height="545" alt="Tiktok_Predictive_Model_Development_NLP_1_53_0" src="https://github.com/user-attachments/assets/eb966388-5bc2-4668-9d68-b109871033fc" />
+
     
 
 
@@ -3215,7 +3216,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_NLP_1_files/Tiktok_Predictive_Model_Development_NLP_1_103_0.png)
+<img width="516" height="453" alt="Tiktok_Predictive_Model_Development_NLP_1_103_0" src="https://github.com/user-attachments/assets/0be7d6a9-bf7f-4771-b0ec-49c7dd6bf463" />
+
     
 
 
@@ -3304,7 +3306,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_NLP_1_files/Tiktok_Predictive_Model_Development_NLP_1_109_0.png)
+<img width="516" height="453" alt="Tiktok_Predictive_Model_Development_NLP_1_109_0" src="https://github.com/user-attachments/assets/c022b66e-0a0c-4952-8585-79033f732a43" />
+
     
 
 
@@ -3383,7 +3386,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_NLP_1_files/Tiktok_Predictive_Model_Development_NLP_1_114_0.png)
+<img width="516" height="453" alt="Tiktok_Predictive_Model_Development_NLP_1_114_0" src="https://github.com/user-attachments/assets/d19cebb1-2cd4-4eb6-b0d2-8fe364ce72a3" />
+
     
 
 
@@ -3410,7 +3414,8 @@ plt.show()
 
 
     
-![png](Tiktok_Predictive_Model_Development_NLP_1_files/Tiktok_Predictive_Model_Development_NLP_1_116_0.png)
+<img width="1012" height="545" alt="Tiktok_Predictive_Model_Development_NLP_1_116_0" src="https://github.com/user-attachments/assets/c6699227-9356-4993-9021-1f38e6f8cb52" />
+
     
 
 
@@ -3445,3 +3450,4 @@ Remember, sometimes your data simply will not be predictive of your chosen targe
 4. I would want access to **Fact-Checking Results** (whether the claim has been verified externally), **User Credibility Metrics** (such as history of spreading misinformation), **Temporal Features** (how quickly engagement grows after posting) and **Engagement Quality Metrics** (ratio of likes to views, comment sentiment). These would improve the classification further by providing stronger context about the difference between opinions and claims.
 
 **Congratulations!** You've completed this lab. However, you may not notice a green check mark next to this item on Coursera's platform. Please continue your progress regardless of the check mark. Just click on the "save" icon at the top of this notebook to ensure your work has been logged.
+

@@ -874,7 +874,8 @@ plt.show();
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_39_0.png)
+<img width="412" height="160" alt="Employee Turnover Prediction - Salifort Motors_39_0" src="https://github.com/user-attachments/assets/646fb02c-57d8-42ae-b378-6cbec404347e" />
+
     
 
 
@@ -969,7 +970,8 @@ plt.show()
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_49_0.png)
+<img width="567" height="453" alt="Employee Turnover Prediction - Salifort Motors_49_0" src="https://github.com/user-attachments/assets/bcf00108-ca49-4132-b632-0512be4f7c80" />
+
     
 
 
@@ -988,7 +990,8 @@ plt.show()
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_51_0.png)
+<img width="580" height="453" alt="Employee Turnover Prediction - Salifort Motors_51_0" src="https://github.com/user-attachments/assets/3b7811b5-575e-490d-acce-feb7aebefede" />
+
     
 
 
@@ -1007,7 +1010,8 @@ plt.show()
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_53_0.png)
+<img width="589" height="453" alt="Employee Turnover Prediction - Salifort Motors_53_0" src="https://github.com/user-attachments/assets/7af8ec03-c7f2-4195-87e6-302b73f3660f" />
+
     
 
 
@@ -1043,7 +1047,8 @@ plt.title("Monthly Hours by Number of Projects")
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_57_1.png)
+<img width="554" height="453" alt="Employee Turnover Prediction - Salifort Motors_57_1" src="https://github.com/user-attachments/assets/689c2106-d5a1-4179-90eb-b0753a05c4c9" />
+
     
 
 
@@ -1068,7 +1073,8 @@ plt.title("Number of Projects Histogram")
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_59_1.png)
+<img width="580" height="453" alt="Employee Turnover Prediction - Salifort Motors_59_1" src="https://github.com/user-attachments/assets/d5d4edd4-9b9b-4242-8ea0-6565e4d3e647" />
+
     
 
 
@@ -1120,7 +1126,8 @@ plt.title('Average monthly hours by Satisfaction');
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_65_0.png)
+<img width="1311" height="776" alt="Employee Turnover Prediction - Salifort Motors_65_0" src="https://github.com/user-attachments/assets/9db64820-82f1-4955-a197-354311ff7e14" />
+
     
 
 
@@ -1147,7 +1154,8 @@ plt.title("Satisfaction by Tenure")
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_68_1.png)
+<img width="1772" height="699" alt="Employee Turnover Prediction - Salifort Motors_68_1" src="https://github.com/user-attachments/assets/d23eb703-a6f7-4690-9c13-7eaf7045b4f6" />
+
     
 
 
@@ -1171,7 +1179,8 @@ plt.title("Tenure Histogram")
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_70_1.png)
+<img width="580" height="453" alt="Employee Turnover Prediction - Salifort Motors_70_1" src="https://github.com/user-attachments/assets/de331eee-1555-43eb-ae9a-5788c17f9532" />
+
     
 
 
@@ -1265,7 +1274,8 @@ ax[1].set_title("Salary Histogram by Tenure: Long-tenured Employees", fontsize='
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_76_1.png)
+<img width="1789" height="702" alt="Employee Turnover Prediction - Salifort Motors_76_1" src="https://github.com/user-attachments/assets/af2f5f9b-588e-4d7a-ae07-b21b06c7b551" />
+
     
 
 
@@ -1294,7 +1304,8 @@ plt.title("Monthly Hours by Last Evaluation Score")
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_80_1.png)
+<img width="1311" height="776" alt="Employee Turnover Prediction - Salifort Motors_80_1" src="https://github.com/user-attachments/assets/726af4f8-57df-437e-9594-0473d3a1c349" />
+
     
 
 
@@ -1314,7 +1325,8 @@ plt.title('Monthly hours by promotion last 5 years', fontsize='14');
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_83_0.png)
+<img width="1311" height="317" alt="Employee Turnover Prediction - Salifort Motors_83_0" src="https://github.com/user-attachments/assets/560ed752-81e9-40b6-81d6-2803604605fb" />
+
     
 
 
@@ -1365,7 +1377,8 @@ plt.title("Department by Employee Turnover")
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_88_1.png)
+<img width="937" height="761" alt="Employee Turnover Prediction - Salifort Motors_88_1" src="https://github.com/user-attachments/assets/1f469e88-353e-4d75-9bf0-97b9ea9cff32" />
+
     
 
 
@@ -1392,7 +1405,8 @@ heatmap.set_title('Correlation Heatmap')
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_91_1.png)
+<img width="1337" height="910" alt="Employee Turnover Prediction - Salifort Motors_91_1" src="https://github.com/user-attachments/assets/390fcb96-3499-4899-a7c1-b25aaff320ab" />
+
     
 
 
@@ -1643,7 +1657,8 @@ plt.show()
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_107_0.png)
+<img width="778" height="679" alt="Employee Turnover Prediction - Salifort Motors_107_0" src="https://github.com/user-attachments/assets/85bd131e-8f35-485a-891b-b298ece63b4b" />
+
     
 
 
@@ -1660,7 +1675,8 @@ plt.show()
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_109_0.png)
+<img width="580" height="532" alt="Employee Turnover Prediction - Salifort Motors_109_0" src="https://github.com/user-attachments/assets/4a43c0f9-dc99-4d4f-94c4-d8c225290d2a" />
+
     
 
 
@@ -2372,7 +2388,8 @@ plt.show()
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_131_0.png)
+<img width="516" height="453" alt="Employee Turnover Prediction - Salifort Motors_131_0" src="https://github.com/user-attachments/assets/a8c5761b-9a7e-452a-88da-54d1904b8052" />
+
     
 
 
@@ -5289,7 +5306,8 @@ plt.title("Random Forest FE CV - Test Set")
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_313_1.png)
+<img width="516" height="453" alt="Employee Turnover Prediction - Salifort Motors_313_1" src="https://github.com/user-attachments/assets/c50fdf29-c16a-4480-9713-108bfe32a5a8" />
+
     
 
 
@@ -5361,7 +5379,8 @@ plt.show()
 
 
     
-![png](Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_files/Employee%20Turnover%20Prediction%20-%20Salifort%20Motors_321_0.png)
+<img width="1005" height="545" alt="Employee Turnover Prediction - Salifort Motors_321_0" src="https://github.com/user-attachments/assets/fb54a627-a7a0-4126-8536-b3a9be06971f" />
+
     
 
 
@@ -5949,3 +5968,4 @@ test_preds_df
 ```python
 test_preds_df.to_csv('Employee Turnover Predictions.csv', index=False)
 ```
+

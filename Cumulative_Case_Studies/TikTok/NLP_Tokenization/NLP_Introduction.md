@@ -78,14 +78,14 @@ After the count matrix has been created, `CountVectorizer` lets you choose to ke
 
 ## Notebooks
 
-There will be 2 Notebooks produced with NLP via Tokenization, these are:
+There will be 2 NLP Pipelines produced with NLP via Tokenization, these are:
 
 * [Tiktok_Predictive_Model_Development_NLP_1.ipynb](/TikTok/Course%206/Portfolio/NLP/Tiktok_Predictive_Model_Development_NLP_1.ipynb)
 * [TikTok_Predictive_Model_Development-NLP-2.ipynb](/TikTok/Course%206/Portfolio/NLP/Tiktok_Predictive_Model_Development_NLP_2.ipynb)
 
 **NLP_1** will be where the `CountVectorizer` is fitted to the whole data before splitting the data into training, validation and testing sets.
 
-**NLP_2** will be where the `CountVectorizer` is fitted to the training set only and then transformed on the validation and test set with the same fitted vectorizer.
+**NLP_2** (Industry Standard) will be where the `CountVectorizer` is fitted to the training set only and then transformed on the validation and test set with the same fitted vectorizer.
 
 In both Notebooks, the champion Model produced slightly better, with NLP_2 performing the ever so slightly best.
 
@@ -109,4 +109,8 @@ In both Notebooks, the champion Model produced slightly better, with NLP_2 perfo
 * True Negatives (**1889**)
 * False Negatives (**10**)
 
-Therefore, due to this slight improvement I would recommend to use Natural Language Processing (NLP) via Tokenization for text-based features that are not Categorical as this can help with Model Classification. I would only recommend this for when it is applicable on a case by case basis, but nonetheless it is evident in its improvements of Model Evaluation Metrics.
+## Conclusion
+
+With the NLP preprocessing Pipelines, NLP_2 was chosen as the final, industry standard approach due to it following the correct Machine Learning workflow and prevents data leakage. In NLP_2, the `CountVectorizer` is fitted only on the training data, and then applied to the validation and test sets using `transform()` rather than `fit_transform()`. This therefore ensures that the information from the unseen data does not influence the vocabulary or feature space learned during training. By keeping the validation and test sets completely unseen during preprocessing, NLP_2 provides more accurate model evaluation, realistic generalisation performance and mirrors how production systems operate. This makes NLP_2 the correct and reliable choice for building robust NLP Models.
+
+**Correct NLP Pipeline = NLP_2**

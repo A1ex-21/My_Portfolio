@@ -1283,7 +1283,9 @@ plt.show()
 
 
     
-![png](Waze_Logistic_Regression_files/Waze_Logistic_Regression_74_0.png)
+<img width="1283" height="994" alt="Waze_Logistic_Regression_74_0" src="https://github.com/user-attachments/assets/a64ff1de-f22f-4af6-bb0d-a636e39071a9" />
+
+
     
 
 
@@ -2054,7 +2056,8 @@ plt.title("Log-Odds - activity_days")
 
 
     
-![png](Waze_Logistic_Regression_files/Waze_Logistic_Regression_100_1.png)
+<img width="565" height="453" alt="Waze_Logistic_Regression_100_1" src="https://github.com/user-attachments/assets/bacbeb4a-bbc7-45ed-8027-bbcfe506a4e7" />
+
     
 
 
@@ -2116,7 +2119,8 @@ disp.plot()
 
 
     
-![png](Waze_Logistic_Regression_files/Waze_Logistic_Regression_111_1.png)
+<img width="516" height="432" alt="Waze_Logistic_Regression_111_1" src="https://github.com/user-attachments/assets/44f8406d-10e3-4196-a4ee-acfc19f8752f" />
+
     
 
 
@@ -2238,7 +2242,8 @@ plt.show()
 
 
     
-![png](Waze_Logistic_Regression_files/Waze_Logistic_Regression_121_0.png)
+<img width="824" height="545" alt="Waze_Logistic_Regression_121_0" src="https://github.com/user-attachments/assets/e62c641c-9193-4ee5-b0cc-de992ef33b49" />
+
     
 
 
@@ -2275,3 +2280,4 @@ Now that you've built your regression model, the next step is to share your find
 6. Additional features I would like to have in order to improve the model are drive-level information for each user, such as drive times, geographic locations, etc. It would also be useful to have more granular data to know how users interact with the app. An example of this is how often do users report or confirm road hazard alerts/traffic/construction works? Finally, it would be helpful to obtain the monthly count of unique starting and ending locations that each driver inputs.
 
 **Congratulations!** You've completed this lab. However, you may not notice a green check mark next to this item on Coursera's platform. Please continue your progress regardless of the check mark. Just click on the "save" icon at the top of this notebook to ensure your work has been logged. 
+

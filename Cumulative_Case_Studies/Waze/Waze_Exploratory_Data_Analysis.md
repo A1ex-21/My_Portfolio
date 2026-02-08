@@ -596,7 +596,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_41_0.png)
+<img width="412" height="160" alt="Waze_Exploratory_Data_Analysis_41_0" src="https://github.com/user-attachments/assets/03ad6136-49b2-4183-a0d4-bbd0d214ae64" />
+
     
 
 
@@ -614,7 +615,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_42_0.png)
+<img width="472" height="314" alt="Waze_Exploratory_Data_Analysis_42_0" src="https://github.com/user-attachments/assets/ae70c2c1-9841-43f9-83db-14e521bc6767" />
+
     
 
 
@@ -635,7 +637,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_45_0.png)
+<img width="412" height="160" alt="Waze_Exploratory_Data_Analysis_45_0" src="https://github.com/user-attachments/assets/7901c3e5-9b66-4126-8ff5-d635bd42c763" />
+
     
 
 
@@ -671,8 +674,10 @@ histogram('drives')
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_48_0.png)
-    
+<img width="472" height="314" alt="Waze_Exploratory_Data_Analysis_48_0" src="https://github.com/user-attachments/assets/1d16391b-7712-487f-967b-a9a9c81805ce" />
+
+
+
 
 
 The `drives` information follows a distribution similar to the `sessions` variable. It is right-skewed, approximately log-normal, with a median of 48. However, some drivers had over 400 drives in the last month.
@@ -692,7 +697,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_51_0.png)
+<img width="412" height="160" alt="Waze_Exploratory_Data_Analysis_51_0" src="https://github.com/user-attachments/assets/cad362b9-c506-4119-a75c-f3048ef7e68b" />
+
     
 
 
@@ -704,7 +710,8 @@ histogram('total_sessions')
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_52_0.png)
+<img width="463" height="314" alt="Waze_Exploratory_Data_Analysis_52_0" src="https://github.com/user-attachments/assets/cfad548a-a219-4461-9048-3e385d10ccfe" />
+
     
 
 
@@ -725,7 +732,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_55_0.png)
+<img width="412" height="160" alt="Waze_Exploratory_Data_Analysis_55_0" src="https://github.com/user-attachments/assets/69f025f3-9414-4b1c-b10a-84d642651c7a" />
+
     
 
 
@@ -740,7 +748,8 @@ histogram('n_days_after_onboarding', median_txt=False)
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_56_1.png)
+<img width="463" height="314" alt="Waze_Exploratory_Data_Analysis_56_1" src="https://github.com/user-attachments/assets/85324f89-052c-4182-a891-1b3172c96536" />
+
     
 
 
@@ -762,7 +771,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_59_0.png)
+<img width="412" height="160" alt="Waze_Exploratory_Data_Analysis_59_0" src="https://github.com/user-attachments/assets/2ba9ddaa-47f4-4513-ac32-504c2d774f2d" />
+
     
 
 
@@ -774,7 +784,8 @@ histogram('driven_km_drives')
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_60_0.png)
+<img width="463" height="314" alt="Waze_Exploratory_Data_Analysis_60_0" src="https://github.com/user-attachments/assets/f7d339d7-6eba-413e-bc64-f833b7e2e212" />
+
     
 
 
@@ -795,7 +806,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_63_0.png)
+<img width="420" height="160" alt="Waze_Exploratory_Data_Analysis_63_0" src="https://github.com/user-attachments/assets/5c6aa4ff-dfbb-47bd-b841-46a967ef31b4" />
+
     
 
 
@@ -806,7 +818,8 @@ histogram('duration_minutes_drives')
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_64_0.png)
+<img width="471" height="314" alt="Waze_Exploratory_Data_Analysis_64_0" src="https://github.com/user-attachments/assets/6c4d33a8-216c-489c-b2a2-3ad2720861ed" />
+
     
 
 
@@ -827,7 +840,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_67_0.png)
+<img width="412" height="160" alt="Waze_Exploratory_Data_Analysis_67_0" src="https://github.com/user-attachments/assets/0d71a473-2b66-4cf4-9d72-3b8107d3a99c" />
+
     
 
 
@@ -843,7 +857,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_68_0.png)
+<img width="463" height="314" alt="Waze_Exploratory_Data_Analysis_68_0" src="https://github.com/user-attachments/assets/8dc2bd42-465e-4636-9ed3-b7db574830fc" />
+
     
 
 
@@ -866,7 +881,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_71_0.png)
+<img width="412" height="160" alt="Waze_Exploratory_Data_Analysis_71_0" src="https://github.com/user-attachments/assets/8a9874a5-0133-400d-9319-6d03b531af9f" />
+
     
 
 
@@ -882,7 +898,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_72_0.png)
+<img width="472" height="314" alt="Waze_Exploratory_Data_Analysis_72_0" src="https://github.com/user-attachments/assets/232380c0-e393-4b8d-8f69-fe6bdd58d65c" />
+
     
 
 
@@ -909,7 +926,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_75_0.png)
+<img width="468" height="425" alt="Waze_Exploratory_Data_Analysis_75_0" src="https://github.com/user-attachments/assets/8b9d9a9e-bc38-4526-a47e-40bf49bc3149" />
+
     
 
 
@@ -934,7 +952,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_78_0.png)
+<img width="515" height="409" alt="Waze_Exploratory_Data_Analysis_78_0" src="https://github.com/user-attachments/assets/853563e5-292f-4717-a756-63bdf252e176" />
+
     
 
 
@@ -962,7 +981,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_81_0.png)
+<img width="1014" height="391" alt="Waze_Exploratory_Data_Analysis_81_0" src="https://github.com/user-attachments/assets/850ecb67-8480-492d-8af1-118dfc216899" />
+
     
 
 
@@ -1002,7 +1022,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_85_0.png)
+<img width="563" height="453" alt="Waze_Exploratory_Data_Analysis_85_0" src="https://github.com/user-attachments/assets/b02fbc51-dd6d-487f-9f63-9838e6781b00" />
+
     
 
 
@@ -1023,7 +1044,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_88_0.png)
+<img width="472" height="314" alt="Waze_Exploratory_Data_Analysis_88_0" src="https://github.com/user-attachments/assets/b56158fc-7abe-488a-ac65-b1eb6ad3aaa0" />
+
     
 
 
@@ -1111,7 +1133,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_95_0.png)
+<img width="1011" height="468" alt="Waze_Exploratory_Data_Analysis_95_0" src="https://github.com/user-attachments/assets/c19c245e-e7aa-44cf-8ab3-41a75d1197e2" />
+
     
 
 
@@ -1133,7 +1156,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_98_0.png)
+<img width="1001" height="468" alt="Waze_Exploratory_Data_Analysis_98_0" src="https://github.com/user-attachments/assets/b4b15a49-5e63-4621-8b5b-ce0feb4c7d09" />
+
     
 
 
@@ -1177,7 +1201,8 @@ histogram('percent_sessions_in_last_month', median_txt=False, hue=df['label'], m
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_105_1.png)
+<img width="475" height="314" alt="Waze_Exploratory_Data_Analysis_105_1" src="https://github.com/user-attachments/assets/9300c2d8-0a50-47c7-8635-97d3f2403550" />
+
     
 
 
@@ -1211,7 +1236,8 @@ plt.show()
 
 
     
-![png](Waze_Exploratory_Data_Analysis_files/Waze_Exploratory_Data_Analysis_109_0.png)
+<img width="609" height="314" alt="Waze_Exploratory_Data_Analysis_109_0" src="https://github.com/user-attachments/assets/029eee86-a222-430c-b8b0-942dda9cc67a" />
+
     
 
 
@@ -1749,3 +1775,4 @@ Now that you've explored and visualized your data, the next step is to share you
 
 
 **Congratulations!** You've completed this lab. However, you may not notice a green check mark next to this item on Coursera's platform. Please continue your progress regardless of the check mark. Just click on the "save" icon at the top of this notebook to ensure your work has been logged.
+

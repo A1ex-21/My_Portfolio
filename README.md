@@ -1,5 +1,8 @@
 # **My Portfolio**
-![My Portfolio Econometrics and R](https://github.com/user-attachments/assets/f4894ec7-b24f-42ce-aba5-e2ab664cca43)
+
+<p>
+ <img src="https://github.com/user-attachments/assets/f4894ec7-b24f-42ce-aba5-e2ab664cca43" width="1000" height="1000"/>
+</p>
 
 Hello and welcome to my portfolio, here I will showcase my skills and proficiency in programming and Data Analytics.
 

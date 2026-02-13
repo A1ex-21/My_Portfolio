@@ -7940,7 +7940,8 @@ plt.show()
 
 
     
-![png](Waze_Predictive_Model_files/Waze_Predictive_Model_122_0.png)
+<img width="516" height="453" alt="Waze_Predictive_Model_122_0" src="https://github.com/user-attachments/assets/4afeb90c-ec24-45bc-ac43-50e99992b5a5" />
+
     
 
 
@@ -7964,7 +7965,8 @@ plot_importance(xgb_cv.best_estimator_)
 
 
     
-![png](Waze_Predictive_Model_files/Waze_Predictive_Model_125_1.png)
+<img width="767" height="453" alt="Waze_Predictive_Model_125_1" src="https://github.com/user-attachments/assets/a8bff22f-0a8f-49f9-a37c-44d337a08285" />
+
     
 
 
@@ -8042,7 +8044,8 @@ plt.title("Precision-Recall Curve, XGBoost Model")
 
 
     
-![png](Waze_Predictive_Model_files/Waze_Predictive_Model_133_1.png)
+<img width="448" height="453" alt="Waze_Predictive_Model_133_1" src="https://github.com/user-attachments/assets/6448bcb0-5403-44d6-9b8b-31aee48d173a" />
+
     
 
 
@@ -8373,8 +8376,10 @@ plt.show()
 
 
     
-![png](Waze_Predictive_Model_files/Waze_Predictive_Model_148_0.png)
+<img width="516" height="453" alt="Waze_Predictive_Model_148_0" src="https://github.com/user-attachments/assets/75e200b7-1e7a-4493-ab48-0a601c6d3578" />
+
     
 
 
 **Congratulations!** You've completed this lab. However, you may not notice a green check mark next to this item on Coursera's platform. Please continue your progress regardless of the check mark. Just click on the "save" icon at the top of this notebook to ensure your work has been logged.
+

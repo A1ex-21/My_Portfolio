@@ -779,7 +779,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_49_0.png)
+<img width="414" height="160" alt="Automatidata_EDA_49_0" src="https://github.com/user-attachments/assets/b64722a5-f2d7-4d8d-b6b2-6dc42b1822a8" />
+
     
 
 
@@ -793,7 +794,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_50_0.png)
+<img width="472" height="314" alt="Automatidata_EDA_50_0" src="https://github.com/user-attachments/assets/ca74e8b6-a18a-4e25-898d-99008b347937" />
+
     
 
 
@@ -811,7 +813,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_53_0.png)
+<img width="412" height="160" alt="Automatidata_EDA_53_0" src="https://github.com/user-attachments/assets/cf19c9e8-afb6-4942-9ed4-78a15257140c" />
+
     
 
 
@@ -825,7 +828,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_54_0.png)
+<img width="472" height="314" alt="Automatidata_EDA_54_0" src="https://github.com/user-attachments/assets/6a8b4b64-5b13-4964-bc8b-cf5ae06c95f1" />
+
     
 
 
@@ -843,7 +847,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_57_0.png)
+<img width="412" height="160" alt="Automatidata_EDA_57_0" src="https://github.com/user-attachments/assets/758b2fdd-2baf-4b2d-805c-93e879fd0142" />
+
     
 
 
@@ -857,7 +862,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_58_0.png)
+<img width="472" height="314" alt="Automatidata_EDA_58_0" src="https://github.com/user-attachments/assets/b18e9437-da80-478f-9192-83c2800f3013" />
+
     
 
 
@@ -875,7 +881,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_61_0.png)
+<img width="1014" height="468" alt="Automatidata_EDA_61_0" src="https://github.com/user-attachments/assets/a073be58-82dd-4692-b367-0022907a051a" />
+
     
 
 
@@ -895,7 +902,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_64_0.png)
+<img width="1005" height="468" alt="Automatidata_EDA_64_0" src="https://github.com/user-attachments/assets/4d04feba-10c3-4ec8-a36b-f5624714ee33" />
+
     
 
 
@@ -1010,7 +1018,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_70_0.png)
+<img width="467" height="314" alt="Automatidata_EDA_70_0" src="https://github.com/user-attachments/assets/8518e955-12ae-419b-a250-cbfbac9c9187" />
+
     
 
 
@@ -1111,7 +1120,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_80_0.png)
+<img width="704" height="468" alt="Automatidata_EDA_80_0" src="https://github.com/user-attachments/assets/b01d2a1e-47b8-491e-b0a5-80220fc32e1b" />
+
     
 
 
@@ -1154,7 +1164,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_84_0.png)
+<img width="704" height="468" alt="Automatidata_EDA_84_0" src="https://github.com/user-attachments/assets/ac06fcfd-3d18-4e6d-8a23-a58f9bd58d95" />
+
     
 
 
@@ -1246,7 +1257,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_88_0.png)
+<img width="713" height="468" alt="Automatidata_EDA_88_0" src="https://github.com/user-attachments/assets/9675a92f-e7ba-43ed-96cc-f19e8dfd02a3" />
+
     
 
 
@@ -1356,7 +1368,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_92_0.png)
+<img width="713" height="468" alt="Automatidata_EDA_92_0" src="https://github.com/user-attachments/assets/a7ddf3b4-3c7b-426c-8334-a77eef13d233" />
+
     
 
 
@@ -1488,7 +1501,8 @@ plt.show();
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_99_1.png)
+<img width="1229" height="545" alt="Automatidata_EDA_99_1" src="https://github.com/user-attachments/assets/701099ac-9c57-4377-a1fe-a8328e9b0134" />
+
     
 
 
@@ -1530,7 +1544,8 @@ plt.show()
 
 
     
-![png](Automatidata_EDA_files/Automatidata_EDA_106_0.png)
+<img width="1251" height="545" alt="Automatidata_EDA_106_0" src="https://github.com/user-attachments/assets/af03ff72-e6fd-4bf3-808a-5a75a425e2b1" />
+
     
 
 
@@ -1875,3 +1890,4 @@ Visualizations helped me understand ... how the variables are distributed as wel
 You’ve now completed professional data visualizations according to a business need. Well done! 
 
 **Congratulations!** You've completed this lab. However, you may not notice a green check mark next to this item on Coursera's platform. Please continue your progress regardless of the check mark. Just click on the "save" icon at the top of this notebook to ensure your work has been logged.
+

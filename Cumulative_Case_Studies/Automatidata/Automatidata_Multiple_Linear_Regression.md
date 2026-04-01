@@ -3044,7 +3044,7 @@ Instantiate your model and fit it to the training data.
 **Estimated Model**
 
 $$
-\mathrm{fare\_\amount}_i=\beta{_0} + \beta{_1}\;\mathrm{passenger-count}_i + \beta{_2}\;\mathrm{mean-distance}_i + \beta{_3}\;\mathrm{mean-duration}_i + \beta{_4}\;\mathrm{rush-hour}_i + \beta{_5}\;\mathrm{VendorID-2}_i +\varepsilon{_i}
+\mathrm{(fare_amount)}_i=\beta{_0} + \beta{_1}\;\mathrm{passenger-count}_i + \beta{_2}\;\mathrm{mean-distance}_i + \beta{_3}\;\mathrm{mean-duration}_i + \beta{_4}\;\mathrm{rush-hour}_i + \beta{_5}\;\mathrm{VendorID-2}_i +\varepsilon{_i}
 $$
 
 **Functional Form = Linear Model**

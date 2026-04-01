@@ -793,7 +793,8 @@ plt.show()
 
 
     
-![png](Automatidata_Multiple_Linear_Regression_files/Automatidata_Multiple_Linear_Regression_44_0.png)
+<img width="414" height="160" alt="Automatidata_Multiple_Linear_Regression_44_0" src="https://github.com/user-attachments/assets/848d63b0-65f1-4ef6-9d47-5205cd75e182" />
+
     
 
 
@@ -807,7 +808,8 @@ plt.show()
 
 
     
-![png](Automatidata_Multiple_Linear_Regression_files/Automatidata_Multiple_Linear_Regression_45_0.png)
+<img width="412" height="160" alt="Automatidata_Multiple_Linear_Regression_45_0" src="https://github.com/user-attachments/assets/6b18ea7f-b71a-4bd4-9785-a5e5532cc89c" />
+
     
 
 
@@ -821,7 +823,8 @@ plt.show()
 
 
     
-![png](Automatidata_Multiple_Linear_Regression_files/Automatidata_Multiple_Linear_Regression_46_0.png)
+<img width="412" height="160" alt="Automatidata_Multiple_Linear_Regression_46_0" src="https://github.com/user-attachments/assets/0b5352aa-779f-484b-b4d0-6278de722ab9" />
+
     
 
 
@@ -1767,7 +1770,8 @@ plt.show()
 
 
     
-![png](Automatidata_Multiple_Linear_Regression_files/Automatidata_Multiple_Linear_Regression_88_0.png)
+<img width="851" height="853" alt="Automatidata_Multiple_Linear_Regression_88_0" src="https://github.com/user-attachments/assets/4804efca-82bc-4049-9abd-a0507f7772d2" />
+
     
 
 
@@ -2697,7 +2701,8 @@ sns.pairplot(df1[['fare_amount', 'mean_duration', 'mean_distance']])
 
 
     
-![png](Automatidata_Multiple_Linear_Regression_files/Automatidata_Multiple_Linear_Regression_101_1.png)
+<img width="741" height="741" alt="Automatidata_Multiple_Linear_Regression_101_1" src="https://github.com/user-attachments/assets/5083a1de-6972-4cff-bcd0-1eb1b6a31168" />
+
     
 
 
@@ -2814,7 +2819,8 @@ plt.show()
 
 
     
-![png](Automatidata_Multiple_Linear_Regression_files/Automatidata_Multiple_Linear_Regression_107_0.png)
+<img width="1120" height="841" alt="Automatidata_Multiple_Linear_Regression_107_0" src="https://github.com/user-attachments/assets/a1604814-449f-490c-a061-c7c47c70f947" />
+
     
 
 
@@ -4071,7 +4077,8 @@ plt.show()
 
 
     
-![png](Automatidata_Multiple_Linear_Regression_files/Automatidata_Multiple_Linear_Regression_156_0.png)
+<img width="842" height="859" alt="Automatidata_Multiple_Linear_Regression_156_0" src="https://github.com/user-attachments/assets/18d03935-6149-4251-bf90-d8cdfa28c879" />
+
     
 
 
@@ -4087,7 +4094,8 @@ plt.show()
 
 
     
-![png](Automatidata_Multiple_Linear_Regression_files/Automatidata_Multiple_Linear_Regression_158_0.png)
+<img width="472" height="314" alt="Automatidata_Multiple_Linear_Regression_158_0" src="https://github.com/user-attachments/assets/640e638f-83ad-4345-b685-50f52934617f" />
+
     
 
 
@@ -4116,7 +4124,8 @@ plt.show()
 
 
     
-![png](Automatidata_Multiple_Linear_Regression_files/Automatidata_Multiple_Linear_Regression_162_0.png)
+<img width="853" height="853" alt="Automatidata_Multiple_Linear_Regression_162_0" src="https://github.com/user-attachments/assets/ac8ca1af-1146-4d43-9022-73b8963a93d3" />
+
     
 
 

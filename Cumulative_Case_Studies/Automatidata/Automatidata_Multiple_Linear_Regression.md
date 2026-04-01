@@ -3039,12 +3039,11 @@ X_train_scaled = scaler.transform(X_train)
 
 Instantiate your model and fit it to the training data.
 
-**Note:** Due to the LaTeX errors with Github, the variables will be seperated with a `-` rather than with a `_` for example: `fare-amount`.
 
 **Estimated Model**
 
 $$
-\mathrm{fare\_amount}_i=\beta{_0} + \beta{_1}\;\mathrm{passenger\\_count}_i + \beta{_2}\;\mathrm{mean-distance}_i + \beta{_3}\;\mathrm{mean-duration}_i + \beta{_4}\;\mathrm{rush-hour}_i + \beta{_5}\;\mathrm{VendorID-2}_i +\varepsilon{_i}
+\mathrm{fare\\_amount}_i=\beta{_0} + \beta{_1}\;\mathrm{passenger\\_count}_i + \beta{_2}\;\mathrm{mean\\_distance}_i + \beta{_3}\;\mathrm{mean\\_duration}_i + \beta{_4}\;\mathrm{rush\\_hour}_i + \beta{_5}\;\mathrm{VendorID\\_2}_i +\varepsilon{_i}
 $$
 
 **Functional Form = Linear Model**
@@ -3058,7 +3057,7 @@ $$
 $$
 
 $$
-Y_\mathrm{fare-amount} = \beta{_0} + \beta{_1}\;X_\mathrm{passenger-count} + \beta{_2}\;X_\mathrm{mean-distance} + \beta{_3}\;X_\mathrm{mean-duration} + \beta{_4}\;X_\mathrm{rush-hour} + \beta{_5}\;X_\mathrm{VendorID-2} + \varepsilon{}
+Y_\mathrm{fare\\_amount} = \beta{_0} + \beta{_1}\;X_\mathrm{passenger\\_count} + \beta{_2}\;X_\mathrm{mean\\_distance} + \beta{_3}\;X_\mathrm{mean\\_duration} + \beta{_4}\;X_\mathrm{rush\\_hour} + \beta{_5}\;X_\mathrm{VendorID\\_2} + \varepsilon{}
 $$
 
 
@@ -4206,7 +4205,7 @@ model.intercept_
 **Estimated Equation**
 
 $$
-\mathrm{fare-amount}_i=12.89 + 0.03\:(\mathrm{passenger-count}_i) + 7.13\:(\mathrm{mean-distance}_i) + 2.81\:(\mathrm{mean-duration}_i) + 0.11\:(\mathrm{rush-hour}_i) -0.05\:(\mathrm{VendorID-2}_i) +\varepsilon{_i}
+\mathrm{fare\\_amount}_i=12.89 + 0.03\:(\mathrm{passenger\\_count}_i) + 7.13\:(\mathrm{mean\\_distance}_i) + 2.81\:(\mathrm{mean\\_duration}_i) + 0.11\:(\mathrm{rush\\_hour}_i) -0.05\:(\mathrm{VendorID\\_2}_i) +\varepsilon{_i}
 $$
 
 What do these coefficients mean? How should they be interpreted?
@@ -4220,7 +4219,7 @@ $$
 *Let's start with the variable with the greatest weight on the models predictions*
 
 $$
-\beta{_2}\:\mathrm{mean-distance} = 7.13
+\beta{_2}\:\mathrm{mean\\_distance} = 7.13
 $$
 
 $$
@@ -4244,7 +4243,7 @@ Here we can infer that for every 3.57 miles traveled, this leads to a mean of 7.
 *Lets do the rest of the coefficients*
 
 $$
-\beta{_1}\:\mathrm{passenger-count} = 0.03
+\beta{_1}\:\mathrm{passenger\\_count} = 0.03
 $$
 
 
@@ -4260,7 +4259,7 @@ print(f'Unscaled Coefficient:', 0.03 / X_train['passenger_count'].std())
 **Interpretation:** For the scaled interpretation, the standard deviation can be rounded to 1 as there is no such thing as a 1.2 of a person, and so for every 1 passenger, this leads to a 0.03 USD increase in the fare amount. For the unscaled interpretation, for every 1 passenger, this leads to a 0.02 USD increase in the fare amount.
 
 $$
-\beta{_3}\:\mathrm{mean-duration} = 2.81
+\beta{_3}\:\mathrm{mean\\_duration} = 2.81
 $$
 
 
@@ -4276,7 +4275,7 @@ print(f'Unscaled Coefficient:', 2.81 / X_train['mean_duration'].std())
 **Interpretation:** For the scaled interpretation, the standard deviation for `mean_duration` is 10.10 which can be rounded to 10, and so for every 10 minutes during the taxi ride, this leads to the fare amount increasing by a mean of 2.81 USD. For the unscaled interpretation, this is 0.28 and so for every minute increase in the duration of the taxi ride, this leads to a increase in the fare amount by a mean of 0.28 USD.
 
 $$
-\beta{_4}\:\mathrm{rush-hour} = 0.11
+\beta{_4}\:\mathrm{rush\\_hour} = 0.11
 $$
 
 
@@ -4294,7 +4293,7 @@ print(f'Unscaled Coefficient:', 0.11 / X_train['rush_hour'].std())
 **Interpretation:** The scaled interpretation for the coefficient is as follows, the standard deviation for the variable `rush_hour` is 0.46 which can be rounded to 1, and due to the variable being a binary where 1 means there is a rush hour, we can infer that when the taxi ride is during rush hour times, the fare amount will increase by 0.11 USD. The unscaled coefficient is 0.24, and so taxi rides during rush hour have fares that are 0.24 USD higher, on average compared to non-rush hour trips.
 
 $$
-\beta{_5}\:\mathrm{VendorID-2} = -0.05
+\beta{_5}\:\mathrm{VendorID\\_2} = -0.05
 $$
 
 

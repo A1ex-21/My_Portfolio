@@ -4050,7 +4050,7 @@ Instantiate your model and fit it to the training data.
 **Estimated Model**
 
 $$
-\text{fare\_amount}_i=\beta{_0} + \beta{_1}\;\text{passenger\_count}_i + \beta{_2}\;\text{mean\_distance}_i + \beta{_3}\;\text{mean\_duration}_i + \beta{_4}\;\text{rush\_hour}_i + \beta{_5}\;\text{VendorID\_2}_i +\varepsilon{_i}
+\mathrm{fare\_amount}_i=\beta{_0} + \beta{_1}\;\mathrm{passenger\_count}_i + \beta{_2}\;\mathrm{mean\_distance}_i + \beta{_3}\;\mathrm{mean\_duration}_i + \beta{_4}\;\mathrm{rush\_hour}_i + \beta{_5}\;\mathrm{VendorID\_2}_i +\varepsilon{_i}
 $$
 
 **Functional Form = Linear Model**
@@ -4064,7 +4064,7 @@ $$
 $$
 
 $$
-Y_\text{fare\_amount} = \beta{_0} + \beta{_1}\;X_\text{passenger\_count} + \beta{_2}\;X_\text{mean\_distance} + \beta{_3}\;X_\text{mean\_duration} + \beta{_4}\;X_\text{rush\_hour} + \beta{_5}\;X_\text{VendorID\_2} + \varepsilon{}
+Y_\mathrm{fare\_amount} = \beta{_0} + \beta{_1}\;X_\mathrm{passenger\_count} + \beta{_2}\;X_\mathrm{mean\_distance} + \beta{_3}\;X_\mathrm{mean\_duration} + \beta{_4}\;X_\mathrm{rush\_hour} + \beta{_5}\;X_\mathrm{VendorID\_2} + \varepsilon{}
 $$
 
 
@@ -5212,7 +5212,7 @@ model.intercept_
 **Estimated Equation**
 
 $$
-\text{fare\_amount}_i=12.89 + 0.03\:(\text{passenger\_count}_i) + 7.13\:(\text{mean\_distance}_i) + 2.81\:(\text{mean\_duration}_i) + 0.11\:(\text{rush\_hour}_i) -0.05\:(\text{VendorID\_2}_i) +\varepsilon{_i}
+\mathrm{fare\_amount}_i=12.89 + 0.03\:(\mathrm{passenger\_count}_i) + 7.13\:(\mathrm{mean\_distance}_i) + 2.81\:(\mathrm{mean\_duration}_i) + 0.11\:(\mathrm{rush\_hour}_i) -0.05\:(\mathrm{VendorID\_2}_i) +\varepsilon{_i}
 
 $$
 
@@ -5251,7 +5251,7 @@ Here we can infer that for every 3.57 miles traveled, this leads to a mean of 7.
 *Lets do the rest of the coefficients*
 
 $$
-\beta{_1}\:\text{passenger\_count} = 0.03
+\beta{_1}\:\mathrm{passenger\_count} = 0.03
 $$
 
 
@@ -5267,7 +5267,7 @@ print(f'Unscaled Coefficient:', 0.03 / X_train['passenger_count'].std())
 **Interpretation:** For the scaled interpretation, the standard deviation can be rounded to 1 as there is no such thing as a 1.2 of a person, and so for every 1 passenger, this leads to a 0.03 USD increase in the fare amount. For the unscaled interpretation, for every 1 passenger, this leads to a 0.02 USD increase in the fare amount.
 
 $$
-\beta{_3}\:\text{mean\_duration} = 2.81
+\beta{_3}\:\mathrm{mean\_duration} = 2.81
 $$
 
 
@@ -5283,7 +5283,7 @@ print(f'Unscaled Coefficient:', 2.81 / X_train['mean_duration'].std())
 **Interpretation:** For the scaled interpretation, the standard deviation for `mean_duration` is 10.10 which can be rounded to 10, and so for every 10 minutes during the taxi ride, this leads to the fare amount increasing by a mean of 2.81 USD. For the unscaled interpretation, this is 0.28 and so for every minute increase in the duration of the taxi ride, this leads to a increase in the fare amount by a mean of 0.28 USD.
 
 $$
-\beta{_4}\:\text{rush\_hour} = 0.11
+\beta{_4}\:\mathrm{rush\_hour} = 0.11
 $$
 
 
@@ -5301,7 +5301,7 @@ print(f'Unscaled Coefficient:', 0.11 / X_train['rush_hour'].std())
 **Interpretation:** The scaled interpretation for the coefficient is as follows, the standard deviation for the variable `rush_hour` is 0.46 which can be rounded to 1, and due to the variable being a binary where 1 means there is a rush hour, we can infer that when the taxi ride is during rush hour times, the fare amount will increase by 0.11 USD. The unscaled coefficient is 0.24, and so taxi rides during rush hour have fares that are 0.24 USD higher, on average compared to non-rush hour trips.
 
 $$
-\beta{_5}\:\text{VendorID\_2} = -0.05
+\beta{_5}\:\mathrm{VendorID\_2} = -0.05
 $$
 
 
@@ -5317,7 +5317,7 @@ print(f'Unscaled Coefficient:', -0.05 / X_train['VendorID_2'].std())
 **Interpretation:** For the scaled interpretation, the standard deviation is 0.50 which can be rounded up to 1 and so is when Vendor 2 is True, and so the trips by Vendor 2 have on average 0.05 USD lower fares than the baseline vendor of Vendor 1. The unscaled coefficient is -0.10 and so the Vendor 2 trips are associted with fares that are 0.10 lower than Vendor 1.
 
 $$
-\beta{_0}\:\text{Intercept} = 12.89
+\beta{_0}\:\mathrm{Intercept} = 12.89
 $$
 
 **Interpretation:** Usually in a linear regression model, the intercept would be the value of the dependent variable when all the independent variables are equal to zero, but this is different in this case due to the use of `StandardScaler`. Given that the predictors were standardised, the intercept represents the expected fare when all the variables are at their mean values, providing a baseline estimate of 12.89 USD for a typical trip.

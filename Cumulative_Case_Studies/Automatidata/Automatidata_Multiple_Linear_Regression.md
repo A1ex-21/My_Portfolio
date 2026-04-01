@@ -4206,9 +4206,7 @@ model.intercept_
 **Estimated Equation**
 
 $$
-
 \mathrm{fare-amount}_i=12.89 + 0.03\:(\mathrm{passenger-count}_i) + 7.13\:(\mathrm{mean-distance}_i) + 2.81\:(\mathrm{mean-duration}_i) + 0.11\:(\mathrm{rush-hour}_i) -0.05\:(\mathrm{VendorID-2}_i) +\varepsilon{_i}
-
 $$
 
 What do these coefficients mean? How should they be interpreted?

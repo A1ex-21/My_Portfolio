@@ -2603,7 +2603,8 @@ plt.show()
 
 
     
-![png](Automatidata_Classifying%20a%20Generous%20Tipper_files/Automatidata_Classifying%20a%20Generous%20Tipper_155_0.png)
+<img width="516" height="453" alt="Automatidata_Classifying a Generous Tipper_155_0" src="https://github.com/user-attachments/assets/b5703213-8046-4ec6-8321-e644337a6a5a" />
+
     
 
 
@@ -2637,7 +2638,8 @@ plt.show()
 
 
     
-![png](Automatidata_Classifying%20a%20Generous%20Tipper_files/Automatidata_Classifying%20a%20Generous%20Tipper_159_0.png)
+<img width="953" height="468" alt="Automatidata_Classifying a Generous Tipper_159_0" src="https://github.com/user-attachments/assets/05c1c6ea-fb5f-468c-88f8-68d6521bec58" />
+
     
 
 

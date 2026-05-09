@@ -2377,7 +2377,8 @@ make_graph(tesla_data, tesla_revenue, 'Tesla')
 
 
     
-![png](Extracting%20and%20Visualising%20Stock%20Market%20Data_files/Extracting%20and%20Visualising%20Stock%20Market%20Data_73_0.png)
+<img width="1189" height="790" alt="Extracting and Visualising Stock Market Data_73_0" src="https://github.com/user-attachments/assets/41e85abe-f99c-4c33-bbde-ec9790b4075b" />
+
     
 
 
@@ -2390,7 +2391,8 @@ make_graph(gme_data, gme_revenue, 'GameStop')
 
 
     
-![png](Extracting%20and%20Visualising%20Stock%20Market%20Data_files/Extracting%20and%20Visualising%20Stock%20Market%20Data_75_0.png)
+<img width="1190" height="790" alt="Extracting and Visualising Stock Market Data_75_0" src="https://github.com/user-attachments/assets/7d388d2f-5aeb-47a8-bf03-3fee42b93b44" />
+
     
 
 

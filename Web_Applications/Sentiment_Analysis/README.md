@@ -1,6 +1,6 @@
 # Sentiment Analysis Web Application
-By
-Alexander Thompson, B.S.c
+
+*Alexander Thompson, B.S.c*
 
 This is a web application that runs through the Flask channel using the IBM Watson Embedded AI Sentiment Library.
 
@@ -8,9 +8,9 @@ This uses the IBM Watson's NLP BERT Sentiment Analysis Function, via a pretraine
 
 ## Pretrained Model
 
----
+```
 sentiment_aggregated-bert-workflow_lang_multi_stock
----
+```
 
 This BERT Model uses the Google Multilingual BERT Foundation Model as a base.
 
@@ -20,11 +20,11 @@ When the pretrained model predicts the sentiment the expected output is one of 3
 
 The Model can be accessed via a REST API with the REST Hostname being:
 
----
+```
 https://sn-watson-sentiment-bert.labs.skills.network
----
+```
 
-## sentiment_analyzer() Function
+## The sentiment_analyzer() Function
 
 The `sentiment_analyzer()` function is used to apply Sentiment Analysis to the text.
 

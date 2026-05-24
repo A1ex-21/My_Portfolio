@@ -32,7 +32,7 @@ This function is used to carry out the emotion detection for the web application
 
 ### Functionality
 
-The function takes the user text and sends it over to the IBM Watson Emotion Detection Model endpoint via a POST request. If the status code is 200, as in everything went successful, then the seriallised JSON response is deserialised and formatted into a python dictionary and the dominant emotion is found in the dictionary. This is then formated into a dictionary which is returned to the server.
+The function takes the user text and sends it over to the IBM Watson Emotion Detection Model endpoint via a POST request. If the status code is 200, as in everything went successful, then the serialised JSON response is deserialised and formatted into a python dictionary and the dominant emotion is found in the dictionary. This is then formated into a dictionary which is returned to the server.
 
 On the server side, a filtered version of the dictionary is created to not include the `dominant_emotion` key for listing out just the emotions to the client. This follows the format of the response to the client being:
 

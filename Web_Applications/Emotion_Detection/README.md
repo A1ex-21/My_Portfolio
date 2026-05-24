@@ -44,6 +44,25 @@ Therfore we need to have the filtered dictionary for the first part of the respo
 
 If the status code from the request is 400, that being an invalid input such as a blank space, then it will assign a value of `None` to all the keys in the dictionary. On the server side, if the `dominant_emotion` key has a value of `None`, then it will return the text `Invalid text! Please try again!` to the client.
 
+### Unit Testing
+
+Using the `unittest` package, the function passed all the unit tests for each emotion.
+
+## Static Code Analysis
+
+Static code analysis was conducted on the server's Python file via the package Pylint and reached a score of 10/10.
+
+Results:
+
+```
+theia@theiadocker-alexanderth3:/home/project/final_project$ pylint server.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.67/10, +1.33)
+
+theia@theiadocker-alexanderth3:/home/project/final_project$ 
+```
+
 ## More information
 
 To find out more information about the IBM Watson NLP Emotion Detection Model, click [here](https://www.ibm.com/docs/en/watson-libraries?topic=catalog-emotion).

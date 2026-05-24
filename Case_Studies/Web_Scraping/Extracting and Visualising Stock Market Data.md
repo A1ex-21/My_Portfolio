@@ -983,11 +983,13 @@ Here we will use the `request` library to send a HTTP GET Request to the webpage
 
 We will be getting the Tesla Revenue Data from macrotrends, and so lets check its `robots.txt` file to see its permissions.
 
-[Robots.txt](robots.pdf)
+[robots.txt](https://github.com/user-attachments/files/28200000/robots.pdf)
+
 
 In the `macrotrends.net/robots.txt` file it only disallows certain file paths, these being:
 
-![Robots](Robots.png)
+![robots](https://github.com/user-attachments/assets/8c10711e-7877-4abc-b408-c86ae5daa138)
+
 
 With our url file path containing `/stocks/charts` we are therefore allowed to scrape the webpage.
 
@@ -1026,7 +1028,8 @@ With this Soup object of `tesla_rev` we will now find the table where our quarte
 
 When looking at the webpage and inspecting element, we use ctrl+f to find and search for table. Doing this we find that the table we want is in the 2 position out of 11. With Python's 0 based Indexing, this means it is in index 1.
 
-![Tesla](Tesla_Revenue_Inspect_Element.png)
+<img width="1919" height="909" alt="Tesla_Revenue_Inspect_Element" src="https://github.com/user-attachments/assets/a3c41dee-6f9f-4cde-a8d4-db3e85b39e38" />
+
 
 
 ```python
@@ -2103,7 +2106,8 @@ This time instead of using BeautifulSoup entirely, we will use pandas `read_html
 
 When looking at the macrotrends webpage and using ctrl+f when inspecting element to find the tables, we can see that it is the 2nd out of 38 tables. With Python's 0 based indexing this means it is at index 1.
 
-![GameStop](GameStop_Revenue_Inspect_Element.png)
+<img width="1919" height="910" alt="GameStop_Revenue_Inspect_Element" src="https://github.com/user-attachments/assets/b53aba04-7426-45ad-b7c2-1b78d76e837a" />
+
 
 
 ```python
@@ -2375,7 +2379,8 @@ make_graph(tesla_data, tesla_revenue, 'Tesla')
 
 
     
-![png](Extracting%20and%20Visualising%20Stock%20Market%20Data_files/Extracting%20and%20Visualising%20Stock%20Market%20Data_76_0.png)
+<img width="1189" height="790" alt="Extracting and Visualising Stock Market Data_76_0" src="https://github.com/user-attachments/assets/cb388342-b829-441e-9861-5f8a4dbbca50" />
+
     
 
 
@@ -2388,7 +2393,8 @@ make_graph(gme_data, gme_revenue, 'GameStop')
 
 
     
-![png](Extracting%20and%20Visualising%20Stock%20Market%20Data_files/Extracting%20and%20Visualising%20Stock%20Market%20Data_78_0.png)
+<img width="1190" height="790" alt="Extracting and Visualising Stock Market Data_78_0" src="https://github.com/user-attachments/assets/99b7b558-65ea-42d4-a827-f5d3971055f5" />
+
     
 
 

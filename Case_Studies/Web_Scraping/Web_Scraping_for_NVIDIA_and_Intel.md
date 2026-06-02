@@ -1,3 +1,4 @@
+<img width="1138" height="450" alt="NVIDIA Basic" src="https://github.com/user-attachments/assets/797f8a25-7403-4c3a-83da-33ae0ce7689f" />
 # <a id='toc1_'></a>[Web Scraping for NVIDIA and Intel](#toc0_)
 *Alexander Thompson, B.S.c*
 
@@ -707,6 +708,7 @@ fig.update_layout(title="NVIDIA Stock Price",
 fig.show()
 ```
 
+<img width="1138" height="450" alt="NVIDIA Basic" src="https://github.com/user-attachments/assets/d9257e13-5771-4d35-9fa0-079c758a4e58" />
 
 
 
@@ -763,6 +765,7 @@ fig.update_layout(title="NVIDIA Share Price",
 fig.show()
 ```
 
+<img width="1138" height="450" alt="NVIDIA Share Price" src="https://github.com/user-attachments/assets/c0cdc001-af8f-48b3-9cbf-4180db44da28" />
 
 
 
@@ -1187,6 +1190,7 @@ fig.update_layout(title="Intel Share Price",
 fig.show()
 ```
 
+<img width="1138" height="450" alt="Intel Share Price" src="https://github.com/user-attachments/assets/204ddeeb-659c-4879-bc0c-fda3faa56aa8" />
 
 
 

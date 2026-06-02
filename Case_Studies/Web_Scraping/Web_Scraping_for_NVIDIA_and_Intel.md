@@ -1,4 +1,3 @@
-<img width="1138" height="450" alt="NVIDIA Basic" src="https://github.com/user-attachments/assets/797f8a25-7403-4c3a-83da-33ae0ce7689f" />
 # <a id='toc1_'></a>[Web Scraping for NVIDIA and Intel](#toc0_)
 *Alexander Thompson, B.S.c*
 

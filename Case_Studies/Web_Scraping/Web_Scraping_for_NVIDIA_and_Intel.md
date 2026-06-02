@@ -32,7 +32,8 @@ For this, we will use the Macrotrends website, and have a look at thier rules to
 
 This can be found in their `/robots.txt` endpoint.
 
-![Robots.txt](Robots.png)
+<img width="383" height="168" alt="Robots" src="https://github.com/user-attachments/assets/e62fc760-6e6e-43b8-ab71-7f03f75e1495" />
+
 
 Here we can see what URL paths are not allowed for web scraping.
 
@@ -85,7 +86,8 @@ Now lets locate where our Revenue data is on the webpage, we will go on the webp
 
 Here we use ctrl+f to search for the word table, we find that the quarterly revenue table for NVIDIA is the 2nd table out of 36 in the search list. Python has 0 based indexing and so this will be at index 1 in the `nvidia_rev` Soup Object.
 
-![NVIDIA](NVIDIA_Inspect_Element.png)
+<img width="1919" height="910" alt="NVIDIA_Inspect_Element" src="https://github.com/user-attachments/assets/f9f61957-5ca5-4a39-8db5-b5f1a4699d82" />
+
 
 
 ```python
@@ -362,7 +364,8 @@ plt.show()
 
 
     
-![png](NVIDIA_files/NVIDIA_32_0.png)
+<img width="630" height="512" alt="NVIDIA Quarterly Revenue" src="https://github.com/user-attachments/assets/030ee98f-6b00-4fab-bd8a-53c994336ff5" />
+
     
 
 
@@ -1228,7 +1231,8 @@ intel_rev = BeautifulSoup(response, 'html5lib')
 
 When looking on the Intel Revenue Macrotrends website, using ctrl+f and searching for table we can see that our quarterly revenue table is 2nd out of 16 in the list.
 
-![intel](../Grayce/Intel%20Inspect%20Element.png)
+<img width="1917" height="910" alt="Intel Inspect Element" src="https://github.com/user-attachments/assets/bbaf49a9-d81e-476a-a3ab-ce0426a28312" />
+
 
 Now lets parse the data into a dataframe
 
@@ -1528,7 +1532,8 @@ plt.show()
 
 
     
-![png](NVIDIA_files/NVIDIA_93_0.png)
+<img width="630" height="512" alt="Intel Quarterly Revenue" src="https://github.com/user-attachments/assets/e3a1a9c0-72ce-4748-b9a5-3f6649dc3f08" />
+
     
 
 
@@ -1565,7 +1570,8 @@ plt.show()
 
 
     
-![png](NVIDIA_files/NVIDIA_97_0.png)
+<img width="1190" height="590" alt="NVIDIA_97_0" src="https://github.com/user-attachments/assets/69f1504b-1987-4fdf-a7f5-4a0f2bcfd989" />
+
     
 
 
@@ -1592,7 +1598,8 @@ plt.show()
 
 
     
-![png](NVIDIA_files/NVIDIA_99_0.png)
+<img width="1190" height="638" alt="NVIDIA vs Intel Quarterly Revenue" src="https://github.com/user-attachments/assets/1edc25c4-9a19-4aa3-bec6-fe90529af780" />
+
     
 
 

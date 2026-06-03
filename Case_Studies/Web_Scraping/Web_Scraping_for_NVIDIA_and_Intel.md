@@ -32,7 +32,8 @@ For this, we will use the Macrotrends website, and have a look at thier rules to
 
 This can be found in their `/robots.txt` endpoint.
 
-![Robots.txt](Robots.png)
+<img width="383" height="168" alt="Robots" src="https://github.com/user-attachments/assets/9a94bf81-3cfb-4fc6-87aa-8d692c50832c" />
+
 
 Here we can see what URL paths are not allowed for web scraping.
 
@@ -85,7 +86,8 @@ Now lets locate where our Revenue data is on the webpage, we will go on the webp
 
 Here we use ctrl+f to search for the word table, we find that the quarterly revenue table for NVIDIA is the 2nd table out of 36 in the search list. Python has 0 based indexing and so this will be at index 1 in the `nvidia_rev` Soup Object.
 
-![NVIDIA](NVIDIA_Inspect_Element.png)
+<img width="1919" height="910" alt="NVIDIA_Inspect_Element" src="https://github.com/user-attachments/assets/2ba410b1-bcc1-45a4-a622-4ba6151f9346" />
+
 
 
 ```python
@@ -361,7 +363,8 @@ plt.show()
 
 
     
-![png](Web_Scraping_for_NVIDIA_and_Intel_files/Web_Scraping_for_NVIDIA_and_Intel_33_0.png)
+<img width="630" height="512" alt="NVIDIA Quarterly Revenue" src="https://github.com/user-attachments/assets/e90e18d5-191a-4d51-909a-19497ea2b823" />
+
     
 
 
@@ -644,6 +647,7 @@ fig.update_layout(title="NVIDIA Stock Price",
 fig.show()
 ```
 
+<img width="1138" height="450" alt="NVIDIA Basic" src="https://github.com/user-attachments/assets/baf241f5-875c-4e08-bad6-c01bfd0cb792" />
 
 
 
@@ -700,6 +704,7 @@ fig.update_layout(title="NVIDIA Share Price",
 fig.show()
 ```
 
+<img width="1138" height="450" alt="NVIDIA Share Price" src="https://github.com/user-attachments/assets/54618509-83df-4e5b-ae01-a2ca5c20c7f8" />
 
 
 
@@ -1124,6 +1129,7 @@ fig.update_layout(title="Intel Share Price",
 fig.show()
 ```
 
+<img width="1138" height="450" alt="Intel Share Price" src="https://github.com/user-attachments/assets/ddfe17cf-86bf-4fc3-8fa8-4ffcfece92d1" />
 
 
 
@@ -1168,7 +1174,8 @@ intel_rev = BeautifulSoup(response, 'html5lib')
 
 When looking on the Intel Revenue Macrotrends website, using ctrl+f and searching for table we can see that our quarterly revenue table is 2nd out of 16 in the list.
 
-![intel](../Grayce/Intel%20Inspect%20Element.png)
+<img width="1917" height="910" alt="Intel Inspect Element" src="https://github.com/user-attachments/assets/97198c2a-b297-4285-b2dd-8c60fab6b940" />
+
 
 Now lets parse the data into a dataframe
 
@@ -1468,7 +1475,8 @@ plt.show()
 
 
     
-![png](Web_Scraping_for_NVIDIA_and_Intel_files/Web_Scraping_for_NVIDIA_and_Intel_96_0.png)
+<img width="630" height="512" alt="Intel Quarterly Revenue" src="https://github.com/user-attachments/assets/5ace29e7-33af-460b-a4ba-61ebed447167" />
+
     
 
 
@@ -1507,7 +1515,8 @@ plt.show()
 
 
     
-![png](Web_Scraping_for_NVIDIA_and_Intel_files/Web_Scraping_for_NVIDIA_and_Intel_101_0.png)
+<img width="1190" height="590" alt="Web_Scraping_for_NVIDIA_and_Intel_101_0" src="https://github.com/user-attachments/assets/fac46b5a-a04f-431e-968c-c701cd6c2428" />
+
     
 
 
@@ -1534,7 +1543,8 @@ plt.show()
 
 
     
-![png](Web_Scraping_for_NVIDIA_and_Intel_files/Web_Scraping_for_NVIDIA_and_Intel_103_0.png)
+<img width="1190" height="638" alt="NVIDIA vs Intel Quarterly Revenue" src="https://github.com/user-attachments/assets/3336db6f-a629-45f1-96a0-52ed1c7f9351" />
+
     
 
 

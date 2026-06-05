@@ -674,7 +674,7 @@ fig.add_hline(y=latest_close,
 # Adding the Arrow Annotation
 fig.add_annotation(x=latest_date,
                    y=latest_close,
-                   text=f"${latest_close:.2f}<br>{percent_change:+.2f}%",
+                   text=f"${latest_close:.2f}<br>{percent_change:+.1f}%",
                    showarrow=True,
                    arrowhead=2,
                    ax=-60,
@@ -704,7 +704,8 @@ fig.update_layout(title="NVIDIA Share Price",
 fig.show()
 ```
 
-<img width="1138" height="450" alt="NVIDIA Share Price" src="https://github.com/user-attachments/assets/54618509-83df-4e5b-ae01-a2ca5c20c7f8" />
+<img width="1138" height="450" alt="NVIDIA Share Price" src="https://github.com/user-attachments/assets/dac10b7f-4abe-4dbf-9130-867ee243a147" />
+
 
 
 

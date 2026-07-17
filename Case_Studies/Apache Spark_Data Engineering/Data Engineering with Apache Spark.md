@@ -1,6 +1,6 @@
 # <a id='toc1_'></a>[Data Engineering with Apache Spark](#toc0_)
 
-**Alexander Thompson, B.S.c (Hons)**
+**Alexander Thompson, BSc (Hons)**
 
 **Table of contents**<a id='toc0_'></a>    
 - [Data Engineering with Apache Spark](#toc1_)    
@@ -39,7 +39,7 @@
 
 ## <a id='toc1_1_'></a>[Introduction](#toc0_)
 
-This is the final project from the certificate **Introduction to Big Data with Spark and Hadoop** by IBM via Coursera. This certificate focused on the role that Big Data plays in our modern world and the vast needs to store and process this data. The Big Data Framework Hadoop was taught and its ecosystem explored, with the use of HIVE, HDFS, MapReduce and more. The shining star of Big Data analytics processing, was Apache Spark, with its architecture, configuration, RDDs and DataFrames.
+This is the final project from IBM's **Introduction to Big Data with Spark and Hadoop** certificate on Coursera. This certificate focused on the role that Big Data plays in our modern world and the vast needs to store and process this data. The Hadoop framework was taught and its wider ecosystem were explored, including Hive, HDFS and MapReduce. Apache Spark was also introduced, covering its architecture, configuration, RDDs and DataFrames.
 
 This project focuses on mastering Spark SQL, a powerful component of Apache Spark that allows you to work with structured data using SQL-like queries. There will also be a focus on Spark DataFrames in addition to Spark SQL with a focus on data aggregation.
 
@@ -522,6 +522,6 @@ spark.stop()
 
 ## <a id='toc1_4_'></a>[Business Use Case](#toc0_)
 
-This project thereby demonstrates just how Apache Spark can support a scalable HR analytics pipeline by ingesting the employee data from a csv file and then enforcing a user defined schema and finally transforming the data into DataFrames. By using PySpark and Spark SQL, the data pipeline performs filtering, aggregation, sorting, self-joins and feature engineering. These operations can help an organisation monitor its workforce costs, compare departments, support compensation planning and identify workforce patterns.
+This project thereby demonstrates just how Apache Spark can support a scalable HR analytics pipeline by ingesting the employee data from a CSV file and then enforcing a user-defined schema and finally transforming the data into DataFrames. By using PySpark and Spark SQL, the data pipeline performs filtering, aggregation, sorting, self-joins and feature engineering. These operations can help an organisation monitor its workforce costs, compare departments, support compensation planning and identify workforce patterns.
 
 From a data engineering perspective, Spark provides a repeatable process for ETL and validating the data, while from a data science perspective it enables efficient exploratory analysis and the engineering of features that could later support forecasting, employee segmentation and predictive workforce models. Although this data engineering project uses a small employee dataset, the same workflow can be scaled to millions of records across distributed computing resources.

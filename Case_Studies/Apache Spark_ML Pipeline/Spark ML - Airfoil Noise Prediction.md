@@ -69,11 +69,13 @@ These diagrams can help give some context to the features of the dataset.
 
 **Diagram of an Airfoil**
 
-![Airfoil with flow](Airfoil_with_flow.png)
+<img width="651" height="516" alt="Airfoil_with_flow" src="https://github.com/user-attachments/assets/48cac707-7cb1-4c18-ac4f-0d9ac149caeb" />
+
 
 **Diagram showcasing the Angle of attack**
 
-![Angle of attack](Airfoil_angle_of_attack.jpg)
+<img width="800" height="246" alt="Airfoil_angle_of_attack" src="https://github.com/user-attachments/assets/b362317f-d76f-4966-9f25-0a0005409c06" />
+
 
 ## <a id='toc1_4_'></a>[Part 1 - Conduct ETL](#toc0_)
 

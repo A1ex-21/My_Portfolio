@@ -1901,7 +1901,8 @@ plt.show()
 
 
     
-![png](Jarque-Bera%20Residuals.png)
+<img width="989" height="490" alt="Jarque-Bera Residuals" src="https://github.com/user-attachments/assets/f080eb7b-bdb1-4b21-bada-0e3136c6470f" />
+
     
 
 
@@ -2270,7 +2271,7 @@ $$
 
 **Wald Test Hypothetical Likelihood**
 
-![Wald Test Likelihood](Wald_Test_Likelihood.jpg)
+<img width="1245" height="820" alt="Wald_Test_Likelihood" src="https://github.com/user-attachments/assets/4df2d3fc-f3f9-4943-a43e-7f9867ed1e6f" />
 
 ***[(Lambert, 2014)](https://www.youtube.com/watch?v=TFKbyXAfr1M)***
 
@@ -3314,7 +3315,8 @@ df.head()
 
 *Statistical Tables Appendix D, Table D.2*
 
-![t Distribution](Percentage%20Points%20of%20the%20t%20Distribution.png)
+<img width="714" height="886" alt="Percentage Points of the t Distribution" src="https://github.com/user-attachments/assets/e8fdfb4d-eb41-4d27-a328-25f54acad685" />
+
 
 * **Upper Percentage Points of the *F* Distribution**
 
@@ -3322,18 +3324,22 @@ df.head()
 
 Note: This is the table I used for the F Critical value and not the whole table with the other degrees of freedom.
 
-![F Distribution](Upper%20Percentage%20Points%20of%20the%20F%20Distribution.png)
+<img width="715" height="852" alt="Upper Percentage Points of the F Distribution" src="https://github.com/user-attachments/assets/26d3f0f5-c970-494b-ab58-793ede8cce64" />
+
 
 * **Upper Percentage Points of the $\chi^2$ Distribution**
 
 *Statistical Tables Appendix D, Table D.4*
 
-![Chi Distribution](Upper%20Percentage%20Points%20of%20the%20Chi%20Distribution.png)
+<img width="715" height="873" alt="Upper Percentage Points of the Chi Distribution" src="https://github.com/user-attachments/assets/46237ca9-346e-4d67-83b9-f029a5ba9511" />
 
-![Chi Distribution Continued](Upper%20Percentage%20Points%20of%20the%20Chi%20Distribution_2.png)
+
+<img width="715" height="847" alt="Upper Percentage Points of the Chi Distribution_2" src="https://github.com/user-attachments/assets/0d4fb0ec-b3b3-4eab-95b8-500d8a374d57" />
+
 
 * **Durbin-Watson *d* Statistic: Significance Points of $d_L$ and $d_U$ at 0.05 Level of Significance**
 
 *Statistical Tables Appendix D: Table D.5A*
 
-![Durbin Watson Significance Points](Durbin%20Watson%20Significance%20Points%20of%20dL%20and%20dU.png)
+<img width="715" height="862" alt="Durbin Watson Significance Points of dL and dU" src="https://github.com/user-attachments/assets/5cfadcd0-7b9c-4bc7-84b3-35be15c6f163" />
+
